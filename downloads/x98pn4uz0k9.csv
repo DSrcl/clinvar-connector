@@ -1,0 +1,2267 @@
+MITF,711-1115C>A,Uncertain significance,Clinvar,,,classified by single submitter
+MITF,-52-56165G>A,Uncertain significance,Clinvar,,,classified by single submitter
+MITF,952G>A,risk factor,Clinvar,,,classified by single submitter
+MITF,1195T>C,Pathogenic,Clinvar,,,classified by single submitter
+MITF,943C>T,Pathogenic,Clinvar,,,classified by single submitter
+MITF,933C>G,Pathogenic,Clinvar,,,classified by single submitter
+MITF,1051T>C,Pathogenic,Clinvar,,,classified by single submitter
+SDHC,148C>T,not provided,Clinvar,,,not classified by submitter
+SDHC,479G>A,not provided,Clinvar,,,not classified by submitter
+SDHC,20+11_20+12dupTG,Likely benign,Clinvar,,,classified by single submitter
+SDHC,43C>T,Pathogenic,Clinvar,,,classified by single submitter
+SDHC,398G>A,Uncertain significance,Clinvar,,,classified by single submitter
+SDHC,341A>T,Benign,Clinvar,,,classified by single submitter
+TMEM127,76C>T,Likely pathogenic,Clinvar,,,classified by single submitter
+TMEM127,475C>T,Likely pathogenic,Clinvar,,,classified by single submitter
+TMEM127,447G>A,Likely pathogenic,Clinvar,,,classified by single submitter
+TMEM127,419G>A,Likely pathogenic,Clinvar,,,classified by single submitter
+TMEM127,418T>C,Likely pathogenic,Clinvar,,,classified by single submitter
+TMEM127,410-2A>C,Likely pathogenic,Clinvar,,,classified by single submitter
+TMEM127,409+1G>T,Likely pathogenic,Clinvar,,,classified by single submitter
+TMEM127,3G>T,Likely pathogenic,Clinvar,,,classified by single submitter
+TMEM127,280C>T,Likely pathogenic,Clinvar,,,classified by single submitter
+TMEM127,265_268delACAG,Likely pathogenic,Clinvar,,,classified by single submitter
+TMEM127,245-1G>T,Likely pathogenic,Clinvar,,,classified by single submitter
+TMEM127,217G>C,Likely pathogenic,Clinvar,,,classified by single submitter
+TMEM127,208G>A,Likely pathogenic,Clinvar,,,classified by single submitter
+TMEM127,158G>C,Likely pathogenic,Clinvar,,,classified by single submitter
+TMEM127,149_150insA,Likely pathogenic,Clinvar,,,classified by single submitter
+TMEM127,116_119delTGTC,Likely pathogenic,Clinvar,,,classified by single submitter
+TMEM127,-18C>T,Likely pathogenic,Clinvar,,,classified by single submitter
+TMEM127,621G>A,Benign,Clinvar,,,classified by single submitter
+TMEM127,149_150insA,risk factor,Clinvar,,,classified by single submitter
+TMEM127,245-1G>T,risk factor,Clinvar,,,classified by single submitter
+TMEM127,475C>T,risk factor,Clinvar,,,classified by single submitter
+TMEM127,410-2A>C,risk factor,Clinvar,,,classified by single submitter
+TMEM127,627_640dupGCTGCTCTCAGAGA,Likely pathogenic,Clinvar,,,classified by single submitter
+SDHAF2,97C>T,Uncertain significance,Clinvar,,,classified by single submitter
+SDHAF2,52A>G,Uncertain significance,Clinvar,,,classified by single submitter
+SDHAF2,232G>A,Pathogenic,Clinvar,,,classified by multiple submitters
+FLCN,959G>A,not provided,Clinvar,,,not classified by submitter
+FLCN,1049G>A,not provided,Clinvar,,,not classified by submitter
+FLCN,1333G>A,not provided,Clinvar,,,not classified by submitter
+FLCN,1198G>A,not provided,Clinvar,,,not classified by submitter
+FLCN,1283C>T,not provided,Clinvar,,,not classified by submitter
+FLCN,871+16T>A,not provided,Clinvar,,,not classified by submitter
+FLCN,871+47G>A,not provided,Clinvar,,,not classified by submitter
+FLCN,871+36G>A,not provided,Clinvar,,,not classified by submitter
+FLCN,871+121C>T,not provided,Clinvar,,,not classified by submitter
+FLCN,871+100C>T,not provided,Clinvar,,,not classified by submitter
+FLCN,715C>T,not provided,Clinvar,,,not classified by submitter
+FLCN,592G>A,not provided,Clinvar,,,not classified by submitter
+FLCN,502C>T,not provided,Clinvar,,,not classified by submitter
+FLCN,268G>T,not provided,Clinvar,,,not classified by submitter
+FLCN,95G>A,not provided,Clinvar,,,not classified by submitter
+FLCN,134C>G,not provided,Clinvar,,,not classified by submitter
+FLCN,202A>G,not provided,Clinvar,,,not classified by submitter
+FLCN,396+55G>T,not provided,Clinvar,,,not classified by submitter
+FLCN,396+59T>C,not provided,Clinvar,,,not classified by submitter
+FLCN,-481G>A,Uncertain significance,Clinvar,,,classified by single submitter
+FLCN,-468C>A,Uncertain significance,Clinvar,,,classified by single submitter
+FLCN,890_893delAAAG,Pathogenic,Clinvar,,,classified by single submitter
+FLCN,726A>T,Benign,Clinvar,,,classified by single submitter
+FLCN,610_611delGCinsTA,Pathogenic,Clinvar,,,classified by single submitter
+FLCN,50G>C,Uncertain significance,Clinvar,,,classified by single submitter
+FLCN,397-14C>T,Benign,Clinvar,,,classified by single submitter
+FLCN,397-13G>A,Benign,Clinvar,,,classified by single submitter
+FLCN,346C>T,Pathogenic,Clinvar,,,classified by single submitter
+FLCN,319_320delGTinsCAC,Pathogenic,Clinvar,,,classified by single submitter
+FLCN,296delA,Pathogenic,Clinvar,,,classified by single submitter
+FLCN,250-2A>G,Pathogenic,Clinvar,,,classified by single submitter
+FLCN,1597C>T,Pathogenic,Clinvar,,,classified by single submitter
+FLCN,1533G>A,Pathogenic,Clinvar,,,classified by single submitter
+FLCN,1522_1524delAAG,Pathogenic,Clinvar,,,classified by single submitter
+FLCN,1433-2A>G,Pathogenic,Clinvar,,,classified by single submitter
+FLCN,1305delT,Pathogenic,Clinvar,,,classified by single submitter
+FLCN,1285delC,Pathogenic,Clinvar,,,classified by single submitter
+FLCN,1233G>A,Benign,Clinvar,,,classified by single submitter
+FLCN,1179delC,Pathogenic,Clinvar,,,classified by single submitter
+FLCN,1149C>T,Uncertain significance,Clinvar,,,classified by single submitter
+FLCN,1117C>T,Pathogenic,Clinvar,,,classified by single submitter
+FLCN,1062+6C>T,Benign,Clinvar,,,classified by single submitter
+FLCN,1060C>T,Pathogenic,Clinvar,,,classified by single submitter
+FLCN,1332C>T,not provided,Clinvar,,,not classified by submitter
+FLCN,97G>C,Uncertain significance,Clinvar,,,classified by single submitter
+FLCN,871+36G>A,Benign,Clinvar,,,classified by single submitter
+FLCN,871+16T>A,Uncertain significance,Clinvar,,,classified by single submitter
+FLCN,396+59T>C,Benign,Clinvar,,,classified by single submitter
+FLCN,236C>G,other,Clinvar,,,classified by single submitter
+FLCN,1389C>G,Pathogenic,Clinvar,,,classified by single submitter
+FLCN,1285delC,Pathogenic,Clinvar,,,classified by multiple submitters
+FLCN,1285dupC,Pathogenic,Clinvar,,,classified by single submitter
+FLCN,959G>A,Uncertain significance,Clinvar,,,classified by single submitter
+FLCN,871+47G>A,Uncertain significance,Clinvar,,,classified by single submitter
+FLCN,586A>G,Uncertain significance,Clinvar,,,classified by single submitter
+FLCN,268G>T,Uncertain significance,Clinvar,,,classified by single submitter
+FLCN,1523A>G,Uncertain significance,Clinvar,,,classified by single submitter
+FLCN,1333G>A,Uncertain significance,Clinvar,,,classified by single submitter
+FLCN,1333G>A,other,Clinvar,,,classified by single submitter
+FLCN,1285dupC,Pathogenic,Clinvar,,,classified by single submitter
+FLCN,1285dupC,Pathogenic,Clinvar,,,classified by multiple submitters
+FLCN,83dupC,Pathogenic,Clinvar,,,classified by single submitter
+FLCN,1203dupC,Pathogenic,Clinvar,,,classified by single submitter
+FLCN,1198G>T,Uncertain significance,Clinvar,,,classified by single submitter
+FLCN,927_954dup28,Pathogenic,Clinvar,,,classified by single submitter
+FLCN,828_829dupTG,Pathogenic,Clinvar,,,classified by single submitter
+FLCN,1539-16_1539-12delTTTTG,Uncertain significance,Clinvar,,,classified by single submitter
+SDHB,487T>C,not provided,Clinvar,,,not classified by submitter
+SDHB,344G>A,not provided,Clinvar,,,not classified by submitter
+SDHB,170A>G,not provided,Clinvar,,,not classified by submitter
+SDHB,8C>G,not provided,Clinvar,,,not classified by submitter
+SDHB,600G>A,Likely pathogenic,Clinvar,,,classified by single submitter
+SDHB,575G>C,Likely pathogenic,Clinvar,,,classified by single submitter
+SDHB,424-16_424-14dupTTC,Uncertain significance,Clinvar,,,classified by single submitter
+SDHB,415C>T,Uncertain significance,Clinvar,,,classified by single submitter
+SDHB,287-1G>C,Likely pathogenic,Clinvar,,,classified by single submitter
+SDHB,268C>T,Pathogenic,Clinvar,,,classified by single submitter
+SDHB,18C>A,Benign,Clinvar,,,classified by multiple submitters
+SDHB,8C>G,Uncertain significance,Clinvar,,,classified by single submitter
+SDHB,487T>C,Benign,Clinvar,,,classified by single submitter
+SDHB,143A>T,Uncertain significance,Clinvar,,,classified by single submitter
+SDHB,590C>G,Likely pathogenic,Clinvar,,,classified by single submitter
+SDHB,487T>C,Likely benign,Clinvar,,,classified by single submitter
+SDHB,268C>T,Pathogenic,Clinvar,,,classified by single submitter
+SDHB,423+20T>A,Likely pathogenic,Clinvar,,,classified by single submitter
+SDHB,32G>A,Likely pathogenic,Clinvar,,,classified by single submitter
+SDHB,423+1G>A,Pathogenic,Clinvar,,,classified by single submitter
+SDHB,725G>A,Pathogenic,Clinvar,,,classified by single submitter
+SDHB,418G>T,Pathogenic,Clinvar,,,classified by single submitter
+SDHB,487T>C,Pathogenic,Clinvar,,,classified by single submitter
+SDHB,8C>G,Pathogenic,Clinvar,,,classified by single submitter
+SDHB,299C>T,Pathogenic,Clinvar,,,classified by single submitter
+SDHB,395A>C,Pathogenic,Clinvar,,,classified by single submitter
+SDHB,302G>A,Pathogenic,Clinvar,,,classified by single submitter
+SDHB,136C>G,Pathogenic,Clinvar,,,classified by single submitter
+SDHB,79C>T,Pathogenic,Clinvar,,,classified by single submitter
+SDHB,79C>T,Pathogenic,Clinvar,,,classified by single submitter
+SDHB,725G>A,Pathogenic,Clinvar,,,classified by single submitter
+SDHB,725G>A,Pathogenic,Clinvar,,,classified by single submitter
+SDHB,590C>G,Pathogenic,Clinvar,,,classified by single submitter
+SDHB,268C>T,Pathogenic,Clinvar,,,classified by single submitter
+SDHB,111_112dupCC,Pathogenic,Clinvar,,,classified by single submitter
+SDHB,638T>C,Uncertain significance,Clinvar,,,classified by single submitter
+SDHB,403G>A,Uncertain significance,Clinvar,,,classified by single submitter
+SDHB,424-19_424-14dupTTCTTC,Benign,Clinvar,,,classified by single submitter
+FH,1303G>A,not provided,Clinvar,,,not classified by submitter
+FH,1138A>G,not provided,Clinvar,,,not classified by submitter
+FH,1013T>C,not provided,Clinvar,,,not classified by submitter
+FH,883G>A,not provided,Clinvar,,,not classified by submitter
+FH,77C>T,not provided,Clinvar,,,not classified by submitter
+FH,71C>G,not provided,Clinvar,,,not classified by submitter
+FH,53C>T,not provided,Clinvar,,,not classified by submitter
+FH,37C>G,not provided,Clinvar,,,not classified by submitter
+FH,952C>T,Pathogenic,Clinvar,,,classified by single submitter
+FH,760C>T,Pathogenic,Clinvar,,,classified by single submitter
+FH,560C>G,Pathogenic,Clinvar,,,classified by single submitter
+FH,521C>G,Pathogenic,Clinvar,,,classified by single submitter
+FH,320A>C,Pathogenic,Clinvar,,,classified by single submitter
+FH,1446_1449delAAAG,Pathogenic,Clinvar,,,classified by single submitter
+FH,1301G>A,Uncertain significance,Clinvar,,,classified by single submitter
+FH,1293delA,Pathogenic,Clinvar,,,classified by single submitter
+FH,1200delT,Pathogenic,Clinvar,,,classified by single submitter
+FH,1129T>C,Uncertain significance,Clinvar,,,classified by single submitter
+FH,1126C>T,Pathogenic,Clinvar,,,classified by single submitter
+FH,1020T>A,Uncertain significance,Clinvar,,,classified by single submitter
+FH,881C>T,not provided,Clinvar,,,not classified by submitter
+FH,1421C>G,Uncertain significance,Clinvar,,,classified by single submitter
+FH,346A>T,Uncertain significance,Clinvar,,,classified by single submitter
+FH,521C>G,Pathogenic,Clinvar,,,classified by single submitter
+FH,698G>T,Pathogenic,Clinvar,,,classified by single submitter
+FH,698G>A,Pathogenic,Clinvar,,,classified by single submitter
+FH,1027C>T,Pathogenic,Clinvar,,,classified by single submitter
+FH,320A>C,Pathogenic,Clinvar,,,classified by single submitter
+FH,301C>T,Pathogenic,Clinvar,,,classified by single submitter
+FH,1084G>C,Pathogenic,Clinvar,,,classified by single submitter
+FH,793G>A,Pathogenic,Clinvar,,,classified by single submitter
+FH,883G>A,Uncertain significance,Clinvar,,,classified by single submitter
+FH,1431_1433dupAAA,Pathogenic,Clinvar,,,classified by single submitter
+FH,1127A>C,Pathogenic,Clinvar,,,classified by single submitter
+FH,1255T>C,Likely pathogenic,Clinvar,,,classified by single submitter
+FH,908T>C,Uncertain significance,Clinvar,,,classified by single submitter
+FH,302G>C,Pathogenic,Clinvar,,,classified by single submitter
+FH,1433_1434insAAA,Uncertain significance,Clinvar,,,classified by single submitter
+MET,1965+20A>G,not provided,Clinvar,,,not classified by submitter
+MET,1701+75T>G,not provided,Clinvar,,,not classified by submitter
+MET,1701+25A>G,not provided,Clinvar,,,not classified by submitter
+MET,1972G>A,not provided,Clinvar,,,not classified by submitter
+MET,1771C>T,not provided,Clinvar,,,not classified by submitter
+MET,1723C>A,not provided,Clinvar,,,not classified by submitter
+MET,1660G>A,not provided,Clinvar,,,not classified by submitter
+MET,4141G>A,not provided,Clinvar,,,not classified by submitter
+MET,4027G>A,not provided,Clinvar,,,not classified by submitter
+MET,110T>C,not provided,Clinvar,,,not classified by submitter
+MET,71G>A,not provided,Clinvar,,,not classified by submitter
+MET,1171G>A,not provided,Clinvar,,,not classified by submitter
+MET,1039G>A,not provided,Clinvar,,,not classified by submitter
+MET,510C>G,not provided,Clinvar,,,not classified by submitter
+MET,289C>G,not provided,Clinvar,,,not classified by submitter
+MET,103A>T,not provided,Clinvar,,,not classified by submitter
+MET,3576T>C,not provided,Clinvar,,,not classified by submitter
+MET,3029C>T,not provided,Clinvar,,,not classified by submitter
+MET,2962C>T,not provided,Clinvar,,,not classified by submitter
+MET,3031A>G,not provided,Clinvar,,,not classified by submitter
+MET,2716C>T,not provided,Clinvar,,,not classified by submitter
+MET,2602A>G,not provided,Clinvar,,,not classified by submitter
+MET,504G>T,Likely benign,Clinvar,,,classified by single submitter
+MET,144G>A,Benign,Clinvar,,,classified by single submitter
+MET,948A>G,Benign,Clinvar,,,classified by single submitter
+MET,1124A>G,Benign,Clinvar,,,classified by single submitter
+MET,1701+7044C>A,Uncertain significance,Clinvar,,,classified by single submitter
+MET,1200+955A>G,Uncertain significance,Clinvar,,,classified by single submitter
+MET,948A>G,Benign,Clinvar,,,classified by single submitter
+MET,654G>A,Benign,Clinvar,,,classified by single submitter
+MET,534C>T,Benign,Clinvar,,,classified by single submitter
+MET,504G>T,Benign,Clinvar,,,classified by single submitter
+MET,4171G>C,Uncertain significance,Clinvar,,,classified by single submitter
+MET,4146G>A,Benign,Clinvar,,,classified by single submitter
+MET,4071G>A,Benign,Clinvar,,,classified by single submitter
+MET,3912C>T,Benign,Clinvar,,,classified by single submitter
+MET,390C>T,Benign,Clinvar,,,classified by single submitter
+MET,3335A>G,Pathogenic,Clinvar,,,classified by single submitter
+MET,3271C>T,Uncertain significance,Clinvar,,,classified by single submitter
+MET,289C>G,Uncertain significance,Clinvar,,,classified by single submitter
+MET,2488C>G,Uncertain significance,Clinvar,,,classified by single submitter
+MET,1944A>G,Benign,Clinvar,,,classified by single submitter
+MET,147A>G,Uncertain significance,Clinvar,,,classified by single submitter
+MET,144G>A,Benign,Clinvar,,,classified by single submitter
+MET,1131C>T,Benign,Clinvar,,,classified by single submitter
+MET,1124A>G,Benign,Clinvar,,,classified by single submitter
+MET,1085T>C,Benign,Clinvar,,,classified by single submitter
+MET,1076G>A,Uncertain significance,Clinvar,,,classified by single submitter
+MET,3907C>T,not provided,Clinvar,,,not classified by submitter
+MET,1829G>A,not provided,Clinvar,,,not classified by submitter
+MET,967A>G,Uncertain significance,Clinvar,,,classified by single submitter
+MET,948A>G,Uncertain significance,Clinvar,,,classified by single submitter
+MET,607T>A,Uncertain significance,Clinvar,,,classified by single submitter
+MET,504G>T,Benign,Clinvar,,,classified by single submitter
+MET,4205C>G,Uncertain significance,Clinvar,,,classified by single submitter
+MET,3410G>C,Uncertain significance,Clinvar,,,classified by single submitter
+MET,3029C>T,conflicting data from submitters,Clinvar,,,classified by multiple submitters
+MET,2962C>T,Uncertain significance,Clinvar,,,classified by multiple submitters
+MET,2437A>G,Uncertain significance,Clinvar,,,classified by single submitter
+MET,199A>G,Uncertain significance,Clinvar,,,classified by single submitter
+MET,1810C>G,Uncertain significance,Clinvar,,,classified by single submitter
+MET,1392+5G>A,Uncertain significance,Clinvar,,,classified by single submitter
+MET,1345G>A,Uncertain significance,Clinvar,,,classified by single submitter
+MET,1306G>C,Uncertain significance,Clinvar,,,classified by single submitter
+MET,1304G>A,Uncertain significance,Clinvar,,,classified by single submitter
+MET,1292T>C,Uncertain significance,Clinvar,,,classified by single submitter
+MET,1237C>A,Uncertain significance,Clinvar,,,classified by single submitter
+MET,1232C>T,Uncertain significance,Clinvar,,,classified by single submitter
+MET,1180C>A,Uncertain significance,Clinvar,,,classified by single submitter
+MET,1124A>G,Benign,Clinvar,,,classified by single submitter
+MET,110T>C,Uncertain significance,Clinvar,,,classified by single submitter
+MET,1048A>C,Uncertain significance,Clinvar,,,classified by single submitter
+MET,1019A>G,Uncertain significance,Clinvar,,,classified by multiple submitters
+MET,-207C=,Uncertain significance,Clinvar,,,classified by single submitter
+MET,3785A>G,other,Clinvar,,,classified by single submitter
+MET,3804G>A,other,Clinvar,,,classified by single submitter
+MET,3572C>T,other,Clinvar,,,classified by single submitter
+MET,3335A>G,Pathogenic,Clinvar,,,classified by single submitter
+MET,3637C>G,other,Clinvar,,,classified by single submitter
+MET,3743A>G,Pathogenic,Clinvar,,,classified by single submitter
+MET,3736G>A,Pathogenic,Clinvar,,,classified by single submitter
+MET,3712G>A,Pathogenic,Clinvar,,,classified by single submitter
+MET,3616G>T,Pathogenic,Clinvar,,,classified by single submitter
+MET,3446T>C,Pathogenic,Clinvar,,,classified by single submitter
+MET,1233G>A,Uncertain significance,Clinvar,,,classified by single submitter
+MET,1659C>T,Uncertain significance,Clinvar,,,classified by single submitter
+MET,3222T>C,Uncertain significance,Clinvar,,,classified by single submitter
+MET,776T>C,Uncertain significance,Clinvar,,,classified by single submitter
+MET,2271G>T,Uncertain significance,Clinvar,,,classified by single submitter
+MET,1039G>A,Uncertain significance,Clinvar,,,classified by single submitter
+MET,3921C>T,Uncertain significance,Clinvar,,,classified by single submitter
+SDHD,480A>G,not provided,Clinvar,,,not classified by submitter
+SDHD,255G>T,not provided,Clinvar,,,not classified by submitter
+SDHD,278A>G,not provided,Clinvar,,,not classified by submitter
+SDHD,101T>G,not provided,Clinvar,,,not classified by submitter
+SDHD,149A>G,not provided,Clinvar,,,not classified by submitter
+SDHD,34G>A,not provided,Clinvar,,,not classified by submitter
+SDHD,204C>T,Benign,Clinvar,,,classified by single submitter
+SDHD,400T>G,Uncertain significance,Clinvar,,,classified by single submitter
+SDHD,34G>A,Benign,Clinvar,,,classified by single submitter
+SDHD,149A>G,Uncertain significance,Clinvar,,,classified by single submitter
+SDHD,149A>G,Pathogenic,Clinvar,,,classified by single submitter
+SDHD,149A>G,other,Clinvar,,,classified by single submitter
+SDHD,149A>G,Pathogenic,Clinvar,,,classified by single submitter
+SDHD,242C>T,Pathogenic,Clinvar,,,classified by single submitter
+SDHD,416T>C,Pathogenic,Clinvar,,,classified by single submitter
+SDHD,3G>C,Pathogenic,Clinvar,,,classified by single submitter
+SDHD,284T>C,Pathogenic,Clinvar,,,classified by single submitter
+SDHD,274G>T,Pathogenic,Clinvar,,,classified by single submitter
+SDHD,242C>T,Pathogenic,Clinvar,,,classified by single submitter
+SDHD,112C>T,Pathogenic,Clinvar,,,classified by single submitter
+SDHD,433C>A,Pathogenic,Clinvar,,,classified by single submitter
+SDHD,14G>A,Pathogenic,Clinvar,,,classified by single submitter
+SDHD,33C>A,Pathogenic,Clinvar,,,classified by single submitter
+SDHD,129G>A,Pathogenic,Clinvar,,,classified by single submitter
+SDHD,1A>G,other,Clinvar,,,classified by single submitter
+SDHD,149A>G,Pathogenic,Clinvar,,,classified by single submitter
+SDHD,-1131_-1130delGA,Pathogenic,Clinvar,,,classified by single submitter
+SDHD,416T>C,Pathogenic,Clinvar,,,classified by single submitter
+SDHD,3G>C,Pathogenic,Clinvar,,,classified by single submitter
+SDHD,277_279delTAT,Pathogenic,Clinvar,,,classified by single submitter
+SDHD,191_192delTC,Pathogenic,Clinvar,,,classified by single submitter
+SDHD,64C>T,Pathogenic,Clinvar,,,classified by single submitter
+SDHD,95C>A,Pathogenic,Clinvar,,,classified by single submitter
+SDHD,341A>G,Pathogenic,Clinvar,,,classified by single submitter
+SDHD,305A>T,Pathogenic,Clinvar,,,classified by single submitter
+SDHD,274G>T,Pathogenic,Clinvar,,,classified by single submitter
+SDHD,274G>T,Pathogenic,Clinvar,,,classified by single submitter
+SDHD,242C>T,other,Clinvar,,,classified by single submitter
+SDHD,242C>T,Pathogenic,Clinvar,,,classified by single submitter
+SDHD,34G>A,Pathogenic,Clinvar,,,classified by single submitter
+SDHD,34G>A,Pathogenic,Clinvar,,,classified by single submitter
+SDHD,34G>A,Pathogenic,Clinvar,,,classified by single submitter
+SDHD,34G>A,Pathogenic,Clinvar,,,classified by single submitter
+SDHD,112C>T,Pathogenic,Clinvar,,,classified by single submitter
+SDHD,112C>T,Pathogenic,Clinvar,,,classified by single submitter
+SDHD,106C>T,Pathogenic,Clinvar,,,classified by single submitter
+RAD51D,556C>T,risk factor,Clinvar,,,classified by single submitter
+RAD51D,757C>T,risk factor,Clinvar,,,classified by single submitter
+RAD51D,973G>A,Uncertain significance,Clinvar,,,classified by single submitter
+RAD51D,932T>C,Uncertain significance,Clinvar,,,classified by single submitter
+RAD51D,932T>A,Uncertain significance,Clinvar,,,classified by single submitter
+RAD51D,919G>A,Uncertain significance,Clinvar,,,classified by single submitter
+RAD51D,748delC,Pathogenic,Clinvar,,,classified by single submitter
+RAD51D,694C>T,Pathogenic,Clinvar,,,classified by single submitter
+RAD51D,568G>A,Uncertain significance,Clinvar,,,classified by single submitter
+RAD51D,493C>T,Uncertain significance,Clinvar,,,classified by single submitter
+RAD51D,493C>G,Uncertain significance,Clinvar,,,classified by single submitter
+RAD51D,413A>G,Uncertain significance,Clinvar,,,classified by single submitter
+RAD51D,412A>C,Uncertain significance,Clinvar,,,classified by single submitter
+RAD51D,329G>A,Uncertain significance,Clinvar,,,classified by single submitter
+RAD51D,26G>C,Uncertain significance,Clinvar,,,classified by single submitter
+RAD51D,208G>A,Uncertain significance,Clinvar,,,classified by single submitter
+RAD51D,1A>G,Pathogenic,Clinvar,,,classified by single submitter
+RAD51D,146C>T,Uncertain significance,Clinvar,,,classified by single submitter
+RAD51D,137C>G,Uncertain significance,Clinvar,,,classified by single submitter
+MAX,171+7506C>A,Uncertain significance,Clinvar,,,classified by single submitter
+MAX,171+7515G>C,Uncertain significance,Clinvar,,,classified by single submitter
+MAX,97C>T,risk factor,Clinvar,,,classified by single submitter
+MAX,223C>T,risk factor,Clinvar,,,classified by single submitter
+MAX,1A>G,risk factor,Clinvar,,,classified by single submitter
+SDHA,891T>C,Benign,Clinvar,,,classified by single submitter
+SDHA,684T>C,Benign,Clinvar,,,classified by single submitter
+SDHA,619A>C,Benign,Clinvar,,,classified by single submitter
+SDHA,309A>G,Benign,Clinvar,,,classified by single submitter
+SDHA,1969G>A,Benign,Clinvar,,,classified by single submitter
+SDHA,1932G>A,Benign,Clinvar,,,classified by single submitter
+SDHA,1752A>G,Benign,Clinvar,,,classified by single submitter
+SDHA,1680G>A,Benign,Clinvar,,,classified by single submitter
+SDHA,1664-8G>A,Benign,Clinvar,,,classified by single submitter
+SDHA,1170C>T,Benign,Clinvar,,,classified by single submitter
+SDHA,1038C>G,Benign,Clinvar,,,classified by single submitter
+SDHA,1526C>T,Pathogenic,Clinvar,,,classified by single submitter
+SDHA,1523C>T,Pathogenic,Clinvar,,,classified by single submitter
+SDHA,1765C>T,Pathogenic,Clinvar,,,classified by single submitter
+SDHA,1664G>A,Pathogenic,Clinvar,,,classified by single submitter
+SDHA,1664G>A,Pathogenic,Clinvar,,,classified by single submitter
+SDHA,1664G>A,Pathogenic,Clinvar,,,classified by single submitter
+SDHA,1A>C,Pathogenic,Clinvar,,,classified by single submitter
+SDHA,1571C>T,Pathogenic,Clinvar,,,classified by single submitter
+SDHA,1660C>T,Pathogenic,Clinvar,,,classified by single submitter
+CDK4,763C>T,not provided,Clinvar,,,not classified by submitter
+CDK4,661G>A,not provided,Clinvar,,,not classified by submitter
+CDK4,523G>A,not provided,Clinvar,,,not classified by submitter
+CDK4,364C>T,not provided,Clinvar,,,not classified by submitter
+CDK4,254G>A,not provided,Clinvar,,,not classified by submitter
+CDK4,71G>A,risk factor,Clinvar,,,classified by single submitter
+CDK4,70C>T,risk factor,Clinvar,,,classified by single submitter
+CDK4,862C>G,Uncertain significance,Clinvar,,,classified by single submitter
+CDK4,776C>T,Uncertain significance,Clinvar,,,classified by single submitter
+CDK4,760C>T,Uncertain significance,Clinvar,,,classified by single submitter
+VHL,598C>T,not provided,Clinvar,,,not classified by submitter
+VHL,558A>C,not provided,Clinvar,,,not classified by submitter
+VHL,3G>A,not provided,Clinvar,,,not classified by submitter
+VHL,119C>T,not provided,Clinvar,,,not classified by submitter
+VHL,74C>T,Benign,Clinvar,,,classified by single submitter
+VHL,340+5G>C,Likely benign,Clinvar,,,classified by single submitter
+VHL,241C>T,Uncertain significance,Clinvar,,,classified by single submitter
+VHL,74C>T,Benign,Clinvar,,,classified by single submitter
+VHL,501_502insTTGTCCGT,Pathogenic,Clinvar,,,classified by single submitter
+VHL,326T>A,Likely pathogenic,Clinvar,,,classified by single submitter
+VHL,256C>G,Pathogenic,Clinvar,,,classified by single submitter
+VHL,233A>G,Pathogenic,Clinvar,,,classified by single submitter
+VHL,497T>C,Pathogenic,Clinvar,,,classified by single submitter
+VHL,485G>T,Pathogenic,Clinvar,,,classified by single submitter
+VHL,481C>T,Pathogenic,Clinvar,,,classified by single submitter
+VHL,464-1G>A,Pathogenic,Clinvar,,,classified by single submitter
+VHL,463+2T>G,Likely pathogenic,Clinvar,,,classified by single submitter
+VHL,408delT,Pathogenic,Clinvar,,,classified by single submitter
+VHL,467A>G,Pathogenic,Clinvar,,,classified by single submitter
+VHL,319C>G,Pathogenic,Clinvar,,,classified by single submitter
+VHL,250G>T,Pathogenic,Clinvar,,,classified by single submitter
+VHL,208G>A,Pathogenic,Clinvar,,,classified by single submitter
+VHL,194C>G,Pathogenic,Clinvar,,,classified by single submitter
+VHL,150C>G,Likely benign,Clinvar,,,classified by single submitter
+VHL,269A>G,Uncertain significance,Clinvar,,,classified by single submitter
+VHL,549G>A,Likely benign,Clinvar,,,classified by single submitter
+VHL,524A>G,Likely pathogenic,Clinvar,,,classified by single submitter
+VHL,458T>A,Likely pathogenic,Clinvar,,,classified by single submitter
+VHL,388G>C,Pathogenic,Clinvar,,,classified by single submitter
+VHL,371C>T,Likely pathogenic,Clinvar,,,classified by single submitter
+VHL,340+5G>C,Uncertain significance,Clinvar,,,classified by single submitter
+VHL,320G>C,Likely pathogenic,Clinvar,,,classified by single submitter
+VHL,242C>T,Likely pathogenic,Clinvar,,,classified by single submitter
+VHL,491A>G,Pathogenic,Clinvar,,,classified by single submitter
+VHL,277G>A,Pathogenic,Clinvar,,,classified by single submitter
+VHL,250G>T,Pathogenic,Clinvar,,,classified by single submitter
+VHL,571C>G,Pathogenic,Clinvar,,,classified by single submitter
+VHL,574C>T,Pathogenic,Clinvar,,,classified by single submitter
+VHL,241C>T,conflicting data from submitters,Clinvar,,,classified by multiple submitters
+VHL,598C>T,Pathogenic,Clinvar,,,classified by multiple submitters
+VHL,488T>C,Pathogenic,Clinvar,,,classified by single submitter
+VHL,376G>T,Pathogenic,Clinvar,,,classified by single submitter
+VHL,388G>C,Pathogenic,Clinvar,,,classified by single submitter
+VHL,334T>A,Pathogenic,Clinvar,,,classified by single submitter
+VHL,188T>C,Pathogenic,Clinvar,,,classified by single submitter
+VHL,191G>C,Pathogenic,Clinvar,,,classified by single submitter
+VHL,562C>G,Pathogenic,Clinvar,,,classified by single submitter
+VHL,562C>G,Pathogenic,Clinvar,,,classified by single submitter
+VHL,562C>G,Pathogenic,Clinvar,,,classified by single submitter
+VHL,496G>T,Pathogenic,Clinvar,,,classified by single submitter
+VHL,292T>C,Pathogenic,Clinvar,,,classified by single submitter
+VHL,334T>C,Pathogenic,Clinvar,,,classified by single submitter
+VHL,405A>C,Pathogenic,Clinvar,,,classified by single submitter
+VHL,263G>C,Pathogenic,Clinvar,,,classified by single submitter
+VHL,263G>C,Pathogenic,Clinvar,,,classified by single submitter
+VHL,499C>G,Pathogenic,Clinvar,,,classified by single submitter
+VHL,499C>T,Pathogenic,Clinvar,,,classified by single submitter
+VHL,499C>T,Pathogenic,Clinvar,,,classified by single submitter
+VHL,481C>T,Pathogenic,Clinvar,,,classified by multiple submitters
+VHL,500G>A,Pathogenic,Clinvar,,,classified by single submitter
+VHL,548C>A,other,Clinvar,,,classified by single submitter
+VHL,629G>A,Uncertain significance,Clinvar,,,classified by single submitter
+VHL,104C>A,Uncertain significance,Clinvar,,,classified by single submitter
+VHL,629G>A,Uncertain significance,Clinvar,,,classified by single submitter
+VHL,463+8C>T,Uncertain significance,Clinvar,,,classified by single submitter
+VHL,445G>T,Pathogenic,Clinvar,,,classified by single submitter
+VHL,464-117delT,Uncertain significance,Clinvar,,,classified by single submitter
+STK11,1072G>A,not provided,Clinvar,,,not classified by submitter
+STK11,1088C>T,not provided,Clinvar,,,not classified by submitter
+STK11,1062C>G,not provided,Clinvar,,,not classified by submitter
+STK11,619G>A,not provided,Clinvar,,,not classified by submitter
+STK11,1062C>G,Benign,Clinvar,,,classified by single submitter
+STK11,921-1G>T,Pathogenic,Clinvar,,,classified by single submitter
+STK11,920+7G>C,Benign,Clinvar,,,classified by single submitter
+STK11,877G>T,Pathogenic,Clinvar,,,classified by single submitter
+STK11,264C>A,Benign,Clinvar,,,classified by single submitter
+STK11,169dupG,Pathogenic,Clinvar,,,classified by single submitter
+STK11,1062C>G,conflicting data from submitters,Clinvar,,,classified by multiple submitters
+STK11,738C>G,Pathogenic,Clinvar,,,classified by single submitter
+STK11,717G>C,Pathogenic,Clinvar,,,classified by single submitter
+STK11,403G>C,other,Clinvar,,,classified by single submitter
+STK11,145T>G,other,Clinvar,,,classified by single submitter
+STK11,508C>T,other,Clinvar,,,classified by single submitter
+STK11,936delA,other,Clinvar,,,classified by single submitter
+STK11,650delC,other,Clinvar,,,classified by single submitter
+STK11,108C>A,other,Clinvar,,,classified by single submitter
+STK11,197dupT,Pathogenic,Clinvar,,,classified by single submitter
+STK11,580G>T,other,Clinvar,,,classified by single submitter
+STK11,418delC,Pathogenic,Clinvar,,,classified by single submitter
+STK11,488G>A,other,Clinvar,,,classified by single submitter
+STK11,169G>T,Pathogenic,Clinvar,,,classified by single submitter
+STK11,200T>C,Pathogenic,Clinvar,,,classified by single submitter
+STK11,250A>T,Pathogenic,Clinvar,,,classified by single submitter
+STK11,759C>A,Pathogenic,Clinvar,,,classified by single submitter
+STK11,970C>T,Uncertain significance,Clinvar,,,classified by single submitter
+STK11,970C>G,Uncertain significance,Clinvar,,,classified by single submitter
+STK11,920+5G>A,Uncertain significance,Clinvar,,,classified by single submitter
+STK11,901C>T,Uncertain significance,Clinvar,,,classified by single submitter
+STK11,894C>A,Uncertain significance,Clinvar,,,classified by single submitter
+STK11,875A>T,Uncertain significance,Clinvar,,,classified by single submitter
+STK11,842C>A,Uncertain significance,Clinvar,,,classified by single submitter
+STK11,704A>C,Uncertain significance,Clinvar,,,classified by single submitter
+STK11,465-4G>A,Uncertain significance,Clinvar,,,classified by single submitter
+STK11,291-18delCT,Uncertain significance,Clinvar,,,classified by single submitter
+STK11,1229C>T,Uncertain significance,Clinvar,,,classified by single submitter
+STK11,1211C>T,Uncertain significance,Clinvar,,,classified by single submitter
+STK11,1189G>T,Uncertain significance,Clinvar,,,classified by single submitter
+STK11,1127A>C,Uncertain significance,Clinvar,,,classified by single submitter
+STK11,1045G>A,Uncertain significance,Clinvar,,,classified by single submitter
+RAD51C,397C>T,risk factor,Clinvar,,,classified by single submitter
+RAD51C,414G>C,risk factor,Clinvar,,,classified by single submitter
+RAD51C,374G>T,risk factor,Clinvar,,,classified by single submitter
+RAD51C,773G>A,Pathogenic,Clinvar,,,classified by single submitter
+RAD51C,376G>A,Uncertain significance,Clinvar,,,classified by single submitter
+RAD51C,859A>G,Likely benign,Clinvar,,,classified by single submitter
+RAD51C,959A>G,Uncertain significance,Clinvar,,,classified by single submitter
+RAD51C,837+4delAGTA,Likely pathogenic,Clinvar,,,classified by single submitter
+RAD51C,790G>A,Uncertain significance,Clinvar,,,classified by single submitter
+RAD51C,784T>G,Uncertain significance,Clinvar,,,classified by single submitter
+RAD51C,706-2A>G,Pathogenic,Clinvar,,,classified by single submitter
+RAD51C,572-11delT,Uncertain significance,Clinvar,,,classified by single submitter
+RAD51C,571+4A>G,Uncertain significance,Clinvar,,,classified by single submitter
+RAD51C,506T>C,Uncertain significance,Clinvar,,,classified by single submitter
+RAD51C,428A>G,Pathogenic,Clinvar,,,classified by single submitter
+RAD51C,406A>T,Uncertain significance,Clinvar,,,classified by single submitter
+RAD51C,14C>T,Uncertain significance,Clinvar,,,classified by single submitter
+RAD51C,1102C>T,Uncertain significance,Clinvar,,,classified by single submitter
+RAD51C,1026+5delGTA,Likely pathogenic,Clinvar,,,classified by single submitter
+TSC2,5359G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,5094C>A,not provided,Clinvar,,,not classified by submitter
+TSC2,5017G>C,not provided,Clinvar,,,not classified by submitter
+TSC2,4901G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,4524_4526delCTT,not provided,Clinvar,,,not classified by submitter
+TSC2,4465G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,4335G>T,not provided,Clinvar,,,not classified by submitter
+TSC2,4316G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,4285G>T,not provided,Clinvar,,,not classified by submitter
+TSC2,4195G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,4106G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,4007C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,3963G>C,not provided,Clinvar,,,not classified by submitter
+TSC2,3889G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,3962A>T,not provided,Clinvar,,,not classified by submitter
+TSC2,3430G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,3413G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,3542C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,3475C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,3422C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,3140T>C,not provided,Clinvar,,,not classified by submitter
+TSC2,846C>A,not provided,Clinvar,,,not classified by submitter
+TSC2,595G>C,not provided,Clinvar,,,not classified by submitter
+TSC2,272C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,275A>T,not provided,Clinvar,,,not classified by submitter
+TSC2,2768C>G,not provided,Clinvar,,,not classified by submitter
+TSC2,2761C>G,not provided,Clinvar,,,not classified by submitter
+TSC2,2348C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,1973A>C,not provided,Clinvar,,,not classified by submitter
+TSC2,1946T>C,not provided,Clinvar,,,not classified by submitter
+TSC2,1912G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,1747G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,1820C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,1600G>T,not provided,Clinvar,,,not classified by submitter
+TSC2,1378G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,1387A>G,not provided,Clinvar,,,not classified by submitter
+TSC2,1318G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,1066G>C,not provided,Clinvar,,,not classified by submitter
+TSC2,1070C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,856A>G,not provided,Clinvar,,,not classified by submitter
+TSC2,3884-47G>T,not provided,Clinvar,,,not classified by submitter
+TSC2,3884-150G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,336+385C>G,not provided,Clinvar,,,not classified by submitter
+TSC2,336+377T>C,not provided,Clinvar,,,not classified by submitter
+TSC2,336+233T>C,not provided,Clinvar,,,not classified by submitter
+TSC2,336+229C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,336+197C>G,not provided,Clinvar,,,not classified by submitter
+TSC2,336+101delG,not provided,Clinvar,,,not classified by submitter
+TSC2,336+32C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,336+10A>G,not provided,Clinvar,,,not classified by submitter
+TSC2,5397G>C,Benign,Clinvar,,,classified by single submitter
+TSC2,5321G>C,Benign,Clinvar,,,classified by single submitter
+TSC2,5202T>C,Benign,Clinvar,,,classified by single submitter
+TSC2,5161-10A>C,Benign,Clinvar,,,classified by single submitter
+TSC2,4983C>T,Benign,Clinvar,,,classified by single submitter
+TSC2,482-3C>T,Benign,Clinvar,,,classified by single submitter
+TSC2,4536C>T,Likely benign,Clinvar,,,classified by single submitter
+TSC2,4215C>T,Likely benign,Clinvar,,,classified by single submitter
+TSC2,3986G>A,Benign,Clinvar,,,classified by single submitter
+TSC2,3915G>A,Benign,Clinvar,,,classified by single submitter
+TSC2,3914C>T,Benign,Clinvar,,,classified by single submitter
+TSC2,3883+8C>G,Benign,Clinvar,,,classified by single submitter
+TSC2,3126G>C,Benign,Clinvar,,,classified by single submitter
+TSC2,2580T>C,Benign,Clinvar,,,classified by single submitter
+TSC2,2331T>C,Likely benign,Clinvar,,,classified by single submitter
+TSC2,1578C>T,Benign,Clinvar,,,classified by single submitter
+TSC2,1543C>T,Benign,Clinvar,,,classified by single submitter
+TSC2,1318G>A,Uncertain significance,Clinvar,,,classified by single submitter
+TSC2,1110G>A,Benign,Clinvar,,,classified by single submitter
+TSC2,1100G>A,Benign,Clinvar,,,classified by single submitter
+TSC2,2009C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,1821G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,2046delG,not provided,Clinvar,,,not classified by submitter
+TSC2,655delC,not provided,Clinvar,,,not classified by submitter
+TSC2,454C>G,not provided,Clinvar,,,not classified by submitter
+TSC2,337-2A>G,not provided,Clinvar,,,not classified by submitter
+TSC2,3203C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,3989C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,4665dupC,not provided,Clinvar,,,not classified by submitter
+TSC2,2381dupA,not provided,Clinvar,,,not classified by submitter
+TSC2,482-27C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,1840-1G>C,not provided,Clinvar,,,not classified by submitter
+TSC2,4849+2T>A,not provided,Clinvar,,,not classified by submitter
+TSC2,1600-14C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,2183dupG,not provided,Clinvar,,,not classified by submitter
+TSC2,5161-15T>C,not provided,Clinvar,,,not classified by submitter
+TSC2,1070C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,4850-2A>G,not provided,Clinvar,,,not classified by submitter
+TSC2,4494-1_4494insC,not provided,Clinvar,,,not classified by submitter
+TSC2,4707C>G,not provided,Clinvar,,,not classified by submitter
+TSC2,2318T>G,not provided,Clinvar,,,not classified by submitter
+TSC2,336+1_336+2dup,not provided,Clinvar,,,not classified by submitter
+TSC2,5123T>C,not provided,Clinvar,,,not classified by submitter
+TSC2,1099delC,not provided,Clinvar,,,not classified by submitter
+TSC2,1837C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,1546delG,not provided,Clinvar,,,not classified by submitter
+TSC2,4260_4261delAG,not provided,Clinvar,,,not classified by submitter
+TSC2,5164G>C,not provided,Clinvar,,,not classified by submitter
+TSC2,2988delC,not provided,Clinvar,,,not classified by submitter
+TSC2,4136C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,5247dupG,not provided,Clinvar,,,not classified by submitter
+TSC2,2743-4_2743dup,not provided,Clinvar,,,not classified by submitter
+TSC2,833A>C,not provided,Clinvar,,,not classified by submitter
+TSC2,3607A>C,not provided,Clinvar,,,not classified by submitter
+TSC2,4142C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,395_396delCC,not provided,Clinvar,,,not classified by submitter
+TSC2,2545+2T>C,not provided,Clinvar,,,not classified by submitter
+TSC2,1384C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,340G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,3952_3961delGAGGACGTTG,not provided,Clinvar,,,not classified by submitter
+TSC2,1443+1G>T,not provided,Clinvar,,,not classified by submitter
+TSC2,724dupA,not provided,Clinvar,,,not classified by submitter
+TSC2,3083A>G,not provided,Clinvar,,,not classified by submitter
+TSC2,4849+48C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,709_710dupCC,not provided,Clinvar,,,not classified by submitter
+TSC2,909_910dupCT,not provided,Clinvar,,,not classified by submitter
+TSC2,5412C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,3373dupC,not provided,Clinvar,,,not classified by submitter
+TSC2,4280G>C,not provided,Clinvar,,,not classified by submitter
+TSC2,656T>C,not provided,Clinvar,,,not classified by submitter
+TSC2,3285-31G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,1946+2T>C,not provided,Clinvar,,,not classified by submitter
+TSC2,1789C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,5224_5241del18,not provided,Clinvar,,,not classified by submitter
+TSC2,4448G>C,not provided,Clinvar,,,not classified by submitter
+TSC2,3413_3414insC,not provided,Clinvar,,,not classified by submitter
+TSC2,2716A>T,not provided,Clinvar,,,not classified by submitter
+TSC2,4436C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,2113G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,1258-32dup,not provided,Clinvar,,,not classified by submitter
+TSC2,1119+23G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,297delC,not provided,Clinvar,,,not classified by submitter
+TSC2,5127dupC,not provided,Clinvar,,,not classified by submitter
+TSC2,1425delC,not provided,Clinvar,,,not classified by submitter
+TSC2,4283delC,not provided,Clinvar,,,not classified by submitter
+TSC2,3999delC,not provided,Clinvar,,,not classified by submitter
+TSC2,4700G>T,not provided,Clinvar,,,not classified by submitter
+TSC2,3132-16G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,3094_3095insTTCCATG,not provided,Clinvar,,,not classified by submitter
+TSC2,1513C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,1708A>G,not provided,Clinvar,,,not classified by submitter
+TSC2,509_510insAT,not provided,Clinvar,,,not classified by submitter
+TSC2,2109G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,26C>G,not provided,Clinvar,,,not classified by submitter
+TSC2,5108dupT,not provided,Clinvar,,,not classified by submitter
+TSC2,1959_1960delAG,not provided,Clinvar,,,not classified by submitter
+TSC2,3599G>C,not provided,Clinvar,,,not classified by submitter
+TSC2,3131G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,2368_2370delTAC,not provided,Clinvar,,,not classified by submitter
+TSC2,1973A>C,not provided,Clinvar,,,not classified by submitter
+TSC2,4736G>T,not provided,Clinvar,,,not classified by submitter
+TSC2,4604A>T,not provided,Clinvar,,,not classified by submitter
+TSC2,4493G>C,not provided,Clinvar,,,not classified by submitter
+TSC2,3036C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,5363A>T,not provided,Clinvar,,,not classified by submitter
+TSC2,4868C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,2743-9C>G,not provided,Clinvar,,,not classified by submitter
+TSC2,3884-8C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,2231delC,not provided,Clinvar,,,not classified by submitter
+TSC2,5262C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,5249T>C,not provided,Clinvar,,,not classified by submitter
+TSC2,2545+95dup,not provided,Clinvar,,,not classified by submitter
+TSC2,1889_1893delGCCTGinsATGCA,not provided,Clinvar,,,not classified by submitter
+TSC2,1151T>A,not provided,Clinvar,,,not classified by submitter
+TSC2,2721delTinsAG,not provided,Clinvar,,,not classified by submitter
+TSC2,5228G>T,not provided,Clinvar,,,not classified by submitter
+TSC2,3935dupT,not provided,Clinvar,,,not classified by submitter
+TSC2,5035G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,3284+45G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,3058dupC,not provided,Clinvar,,,not classified by submitter
+TSC2,1508dupA,not provided,Clinvar,,,not classified by submitter
+TSC2,3989C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,3G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,3197T>C,not provided,Clinvar,,,not classified by submitter
+TSC2,2220+25G>C,not provided,Clinvar,,,not classified by submitter
+TSC2,1343T>C,not provided,Clinvar,,,not classified by submitter
+TSC2,5112dupT,not provided,Clinvar,,,not classified by submitter
+TSC2,1628dupC,not provided,Clinvar,,,not classified by submitter
+TSC2,4662G>C,not provided,Clinvar,,,not classified by submitter
+TSC2,2640-1G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,5154_5157dupCGCA,not provided,Clinvar,,,not classified by submitter
+TSC2,4090dupT,not provided,Clinvar,,,not classified by submitter
+TSC2,4316delG,not provided,Clinvar,,,not classified by submitter
+TSC2,1840G>T,not provided,Clinvar,,,not classified by submitter
+TSC2,1080dupT,not provided,Clinvar,,,not classified by submitter
+TSC2,2073_2074dupCG,not provided,Clinvar,,,not classified by submitter
+TSC2,4913dupA,not provided,Clinvar,,,not classified by submitter
+TSC2,1862_1864delTGC,not provided,Clinvar,,,not classified by submitter
+TSC2,4496dupT,not provided,Clinvar,,,not classified by submitter
+TSC2,3699dupC,not provided,Clinvar,,,not classified by submitter
+TSC2,2639+42C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,1019T>C,not provided,Clinvar,,,not classified by submitter
+TSC2,2861A>G,not provided,Clinvar,,,not classified by submitter
+TSC2,926delT,not provided,Clinvar,,,not classified by submitter
+TSC2,4850-14C>G,not provided,Clinvar,,,not classified by submitter
+TSC2,4324delG,not provided,Clinvar,,,not classified by submitter
+TSC2,2220+1G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,1298C>G,not provided,Clinvar,,,not classified by submitter
+TSC2,976-14G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,2968_2971dupAGGA,not provided,Clinvar,,,not classified by submitter
+TSC2,4915_4918dupCGCC,not provided,Clinvar,,,not classified by submitter
+TSC2,4850-109T>C,not provided,Clinvar,,,not classified by submitter
+TSC2,3312_3313delGA,not provided,Clinvar,,,not classified by submitter
+TSC2,1258-1G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,657delG,not provided,Clinvar,,,not classified by submitter
+TSC2,1839+46G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,2767_2769delTCTinsCC,not provided,Clinvar,,,not classified by submitter
+TSC2,2127delT,not provided,Clinvar,,,not classified by submitter
+TSC2,3284+1G>C,not provided,Clinvar,,,not classified by submitter
+TSC2,3611-10G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,4859A>G,not provided,Clinvar,,,not classified by submitter
+TSC2,979_980dupAT,not provided,Clinvar,,,not classified by submitter
+TSC2,4352dupG,not provided,Clinvar,,,not classified by submitter
+TSC2,4663-14C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,4730delG,not provided,Clinvar,,,not classified by submitter
+TSC2,1258-30G>T,not provided,Clinvar,,,not classified by submitter
+TSC2,774+1G>T,not provided,Clinvar,,,not classified by submitter
+TSC2,4928A>G,not provided,Clinvar,,,not classified by submitter
+TSC2,2639+5G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,5160+2T>C,not provided,Clinvar,,,not classified by submitter
+TSC2,3611-2A>T,not provided,Clinvar,,,not classified by submitter
+TSC2,760G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,3581G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,4498G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,710delC,not provided,Clinvar,,,not classified by submitter
+TSC2,2753C>G,not provided,Clinvar,,,not classified by submitter
+TSC2,4569+44C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,5127delC,not provided,Clinvar,,,not classified by submitter
+TSC2,292C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,2197C>G,not provided,Clinvar,,,not classified by submitter
+TSC2,3434C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,3712delG,not provided,Clinvar,,,not classified by submitter
+TSC2,1001T>C,not provided,Clinvar,,,not classified by submitter
+TSC2,5024C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,5155G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,4957T>C,not provided,Clinvar,,,not classified by submitter
+TSC2,239_249dupCACTCTGGAAG,not provided,Clinvar,,,not classified by submitter
+TSC2,2546-11C>G,not provided,Clinvar,,,not classified by submitter
+TSC2,760G>T,not provided,Clinvar,,,not classified by submitter
+TSC2,2950G>C,not provided,Clinvar,,,not classified by submitter
+TSC2,5176dupC,not provided,Clinvar,,,not classified by submitter
+TSC2,1840-3C>G,not provided,Clinvar,,,not classified by submitter
+TSC2,949_950insTA,not provided,Clinvar,,,not classified by submitter
+TSC2,4489C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,5068+2T>G,not provided,Clinvar,,,not classified by submitter
+TSC2,4849+76G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,3612delG,not provided,Clinvar,,,not classified by submitter
+TSC2,482-3C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,1610_1622delGCTCCCTCTCCCC,not provided,Clinvar,,,not classified by submitter
+TSC2,4683C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,1565A>C,not provided,Clinvar,,,not classified by submitter
+TSC2,1033C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,1362-4G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,3337dupG,not provided,Clinvar,,,not classified by submitter
+TSC2,4298C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,1599+1G>T,not provided,Clinvar,,,not classified by submitter
+TSC2,5414dupA,not provided,Clinvar,,,not classified by submitter
+TSC2,1366G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,2050delG,not provided,Clinvar,,,not classified by submitter
+TSC2,599+4A>G,not provided,Clinvar,,,not classified by submitter
+TSC2,5160+23G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,5214dupC,not provided,Clinvar,,,not classified by submitter
+TSC2,2795G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,1819G>T,not provided,Clinvar,,,not classified by submitter
+TSC2,4417A>C,not provided,Clinvar,,,not classified by submitter
+TSC2,226-1G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,2220+3A>C,not provided,Clinvar,,,not classified by submitter
+TSC2,1804dupT,not provided,Clinvar,,,not classified by submitter
+TSC2,1118A>C,not provided,Clinvar,,,not classified by submitter
+TSC2,4073C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,4061delG,not provided,Clinvar,,,not classified by submitter
+TSC2,2966+92_2966+94dup,not provided,Clinvar,,,not classified by submitter
+TSC2,3168delG,not provided,Clinvar,,,not classified by submitter
+TSC2,4088_4095dupTCTCCTCG,not provided,Clinvar,,,not classified by submitter
+TSC2,3376dupG,not provided,Clinvar,,,not classified by submitter
+TSC2,684delC,not provided,Clinvar,,,not classified by submitter
+TSC2,1160T>C,not provided,Clinvar,,,not classified by submitter
+TSC2,2220+2T>G,not provided,Clinvar,,,not classified by submitter
+TSC2,565_575delTGTTACCTCGA,not provided,Clinvar,,,not classified by submitter
+TSC2,2632C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,3610+42dup,not provided,Clinvar,,,not classified by submitter
+TSC2,337-2A>T,not provided,Clinvar,,,not classified by submitter
+TSC2,4910_4919delAGAAGCGCCA,not provided,Clinvar,,,not classified by submitter
+TSC2,1758_1759dupGT,not provided,Clinvar,,,not classified by submitter
+TSC2,3223_3229dupACCGGGA,not provided,Clinvar,,,not classified by submitter
+TSC2,1960G>T,not provided,Clinvar,,,not classified by submitter
+TSC2,1717-55T>C,not provided,Clinvar,,,not classified by submitter
+TSC2,2546-31G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,3605C>G,not provided,Clinvar,,,not classified by submitter
+TSC2,2737_2738delAC,not provided,Clinvar,,,not classified by submitter
+TSC2,5017G>T,not provided,Clinvar,,,not classified by submitter
+TSC2,465C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,4850-2A>C,not provided,Clinvar,,,not classified by submitter
+TSC2,1361+2T>C,not provided,Clinvar,,,not classified by submitter
+TSC2,4989+2dupT,not provided,Clinvar,,,not classified by submitter
+TSC2,2580T>C,not provided,Clinvar,,,not classified by submitter
+TSC2,3225C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,5097G>C,not provided,Clinvar,,,not classified by submitter
+TSC2,5072T>C,not provided,Clinvar,,,not classified by submitter
+TSC2,5247delG,not provided,Clinvar,,,not classified by submitter
+TSC2,910T>C,not provided,Clinvar,,,not classified by submitter
+TSC2,3620G>T,not provided,Clinvar,,,not classified by submitter
+TSC2,3017_3062del46,not provided,Clinvar,,,not classified by submitter
+TSC2,3610+1G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,975+5G>C,not provided,Clinvar,,,not classified by submitter
+TSC2,910_911delTG,not provided,Clinvar,,,not classified by submitter
+TSC2,225+2T>A,not provided,Clinvar,,,not classified by submitter
+TSC2,2873A>G,not provided,Clinvar,,,not classified by submitter
+TSC2,4812C>A,not provided,Clinvar,,,not classified by submitter
+TSC2,791_808del18,not provided,Clinvar,,,not classified by submitter
+TSC2,4935dupT,not provided,Clinvar,,,not classified by submitter
+TSC2,1599+5G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,570C>A,not provided,Clinvar,,,not classified by submitter
+TSC2,2661_2707del47,not provided,Clinvar,,,not classified by submitter
+TSC2,973C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,3275delC,not provided,Clinvar,,,not classified by submitter
+TSC2,2837+16G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,5331T>C,not provided,Clinvar,,,not classified by submitter
+TSC2,4316G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,269_272delAGCC,not provided,Clinvar,,,not classified by submitter
+TSC2,1712T>C,not provided,Clinvar,,,not classified by submitter
+TSC2,1574A>G,not provided,Clinvar,,,not classified by submitter
+TSC2,114dupT,not provided,Clinvar,,,not classified by submitter
+TSC2,2098-19A>G,not provided,Clinvar,,,not classified by submitter
+TSC2,2199_2203delGTGCT,not provided,Clinvar,,,not classified by submitter
+TSC2,1600-30dup,not provided,Clinvar,,,not classified by submitter
+TSC2,3596T>G,not provided,Clinvar,,,not classified by submitter
+TSC2,4565A>G,not provided,Clinvar,,,not classified by submitter
+TSC2,3236C>A,not provided,Clinvar,,,not classified by submitter
+TSC2,4850-23C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,2531T>G,not provided,Clinvar,,,not classified by submitter
+TSC2,120delC,not provided,Clinvar,,,not classified by submitter
+TSC2,4855_4857delTTC,not provided,Clinvar,,,not classified by submitter
+TSC2,1792_1794delTAC,not provided,Clinvar,,,not classified by submitter
+TSC2,4908C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,1352_1353delGA,not provided,Clinvar,,,not classified by submitter
+TSC2,190A>G,not provided,Clinvar,,,not classified by submitter
+TSC2,193delT,not provided,Clinvar,,,not classified by submitter
+TSC2,5118C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,1832G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,115delA,not provided,Clinvar,,,not classified by submitter
+TSC2,2632C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,622C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,600-15C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,2742+5G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,4207dupG,not provided,Clinvar,,,not classified by submitter
+TSC2,4570-80A>G,not provided,Clinvar,,,not classified by submitter
+TSC2,1875_1876delAC,not provided,Clinvar,,,not classified by submitter
+TSC2,4569+80G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,482-5C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,4643T>C,not provided,Clinvar,,,not classified by submitter
+TSC2,4266_4272delCCTGGAC,not provided,Clinvar,,,not classified by submitter
+TSC2,2114T>A,not provided,Clinvar,,,not classified by submitter
+TSC2,5018T>A,not provided,Clinvar,,,not classified by submitter
+TSC2,849-1G>C,not provided,Clinvar,,,not classified by submitter
+TSC2,1009G>T,not provided,Clinvar,,,not classified by submitter
+TSC2,1257+1G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,4399dupG,not provided,Clinvar,,,not classified by submitter
+TSC2,4515C>G,not provided,Clinvar,,,not classified by submitter
+TSC2,774+24G>T,not provided,Clinvar,,,not classified by submitter
+TSC2,4285G>T,not provided,Clinvar,,,not classified by submitter
+TSC2,1443+2T>G,not provided,Clinvar,,,not classified by submitter
+TSC2,1754G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,3968C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,3239delT,not provided,Clinvar,,,not classified by submitter
+TSC2,3442C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,573C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,3991delG,not provided,Clinvar,,,not classified by submitter
+TSC2,600-36C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,1281C>A,not provided,Clinvar,,,not classified by submitter
+TSC2,1678G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,2665G>C,not provided,Clinvar,,,not classified by submitter
+TSC2,5204_5207dupTCTA,not provided,Clinvar,,,not classified by submitter
+TSC2,3497delC,not provided,Clinvar,,,not classified by submitter
+TSC2,1947-1G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,4672_4684dupGAGCTCGCCATCC,not provided,Clinvar,,,not classified by submitter
+TSC2,2031dupC,not provided,Clinvar,,,not classified by submitter
+TSC2,224A>G,not provided,Clinvar,,,not classified by submitter
+TSC2,3294delC,not provided,Clinvar,,,not classified by submitter
+TSC2,2107dupT,not provided,Clinvar,,,not classified by submitter
+TSC2,2750G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,185G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,3259_3261delGAGinsAA,not provided,Clinvar,,,not classified by submitter
+TSC2,171delC,not provided,Clinvar,,,not classified by submitter
+TSC2,4409dupG,not provided,Clinvar,,,not classified by submitter
+TSC2,481+21G>C,not provided,Clinvar,,,not classified by submitter
+TSC2,187C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,1096G>T,not provided,Clinvar,,,not classified by submitter
+TSC2,1597A>C,not provided,Clinvar,,,not classified by submitter
+TSC2,1385_1386dupGC,not provided,Clinvar,,,not classified by submitter
+TSC2,3131+2T>C,not provided,Clinvar,,,not classified by submitter
+TSC2,4030G>T,not provided,Clinvar,,,not classified by submitter
+TSC2,684C>A,not provided,Clinvar,,,not classified by submitter
+TSC2,585C>A,not provided,Clinvar,,,not classified by submitter
+TSC2,4168G>T,not provided,Clinvar,,,not classified by submitter
+TSC2,334C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,1893dupG,not provided,Clinvar,,,not classified by submitter
+TSC2,928dupT,not provided,Clinvar,,,not classified by submitter
+TSC2,3608C>A,not provided,Clinvar,,,not classified by submitter
+TSC2,1478T>C,not provided,Clinvar,,,not classified by submitter
+TSC2,4095G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,4647T>A,not provided,Clinvar,,,not classified by submitter
+TSC2,1234delG,not provided,Clinvar,,,not classified by submitter
+TSC2,3285-63A>G,not provided,Clinvar,,,not classified by submitter
+TSC2,4351dupC,not provided,Clinvar,,,not classified by submitter
+TSC2,5383C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,3224C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,337-1G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,4473dupA,not provided,Clinvar,,,not classified by submitter
+TSC2,3307_3308insC,not provided,Clinvar,,,not classified by submitter
+TSC2,3803G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,3814+1G>C,not provided,Clinvar,,,not classified by submitter
+TSC2,45delT,not provided,Clinvar,,,not classified by submitter
+TSC2,1934dupT,not provided,Clinvar,,,not classified by submitter
+TSC2,700G>T,not provided,Clinvar,,,not classified by submitter
+TSC2,1872delCinsTT,not provided,Clinvar,,,not classified by submitter
+TSC2,1564dupC,not provided,Clinvar,,,not classified by submitter
+TSC2,3259delG,not provided,Clinvar,,,not classified by submitter
+TSC2,4787G>T,not provided,Clinvar,,,not classified by submitter
+TSC2,3327_3337delGGCCAAGCTGG,not provided,Clinvar,,,not classified by submitter
+TSC2,4006-21C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,734G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,3637delG,not provided,Clinvar,,,not classified by submitter
+TSC2,1752G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,2713delC,not provided,Clinvar,,,not classified by submitter
+TSC2,4621delG,not provided,Clinvar,,,not classified by submitter
+TSC2,4401_4402insT,not provided,Clinvar,,,not classified by submitter
+TSC2,4024C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,1007_1008delAT,not provided,Clinvar,,,not classified by submitter
+TSC2,1716+28C>A,not provided,Clinvar,,,not classified by submitter
+TSC2,5230_5236delCTCCGCC,not provided,Clinvar,,,not classified by submitter
+TSC2,2838-4A>C,not provided,Clinvar,,,not classified by submitter
+TSC2,2677delA,not provided,Clinvar,,,not classified by submitter
+TSC2,4905C>A,not provided,Clinvar,,,not classified by submitter
+TSC2,3884-1G>C,not provided,Clinvar,,,not classified by submitter
+TSC2,1257+21G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,4078G>T,not provided,Clinvar,,,not classified by submitter
+TSC2,437T>G,not provided,Clinvar,,,not classified by submitter
+TSC2,849-24C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,2380dupC,not provided,Clinvar,,,not classified by submitter
+TSC2,1946+1G>C,not provided,Clinvar,,,not classified by submitter
+TSC2,2963G>C,not provided,Clinvar,,,not classified by submitter
+TSC2,1514G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,2370C>A,not provided,Clinvar,,,not classified by submitter
+TSC2,1508delA,not provided,Clinvar,,,not classified by submitter
+TSC2,4705_4706dupTA,not provided,Clinvar,,,not classified by submitter
+TSC2,1564C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,2451C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,649-26G>T,not provided,Clinvar,,,not classified by submitter
+TSC2,4494-2A>C,not provided,Clinvar,,,not classified by submitter
+TSC2,481+5G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,336+61C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,1492G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,4640T>G,not provided,Clinvar,,,not classified by submitter
+TSC2,1257+107dup,not provided,Clinvar,,,not classified by submitter
+TSC2,5131G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,825C>G,not provided,Clinvar,,,not classified by submitter
+TSC2,896T>G,not provided,Clinvar,,,not classified by submitter
+TSC2,3430G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,3022G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,2315C>A,not provided,Clinvar,,,not classified by submitter
+TSC2,5057A>C,not provided,Clinvar,,,not classified by submitter
+TSC2,4850-3C>G,not provided,Clinvar,,,not classified by submitter
+TSC2,1609C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,957_958delGT,not provided,Clinvar,,,not classified by submitter
+TSC2,4709G>C,not provided,Clinvar,,,not classified by submitter
+TSC2,3623G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,3310C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,3397+5G>T,not provided,Clinvar,,,not classified by submitter
+TSC2,4383C>G,not provided,Clinvar,,,not classified by submitter
+TSC2,388delT,not provided,Clinvar,,,not classified by submitter
+TSC2,5143A>G,not provided,Clinvar,,,not classified by submitter
+TSC2,5192delA,not provided,Clinvar,,,not classified by submitter
+TSC2,5402_5403delAG,not provided,Clinvar,,,not classified by submitter
+TSC2,1143delG,not provided,Clinvar,,,not classified by submitter
+TSC2,5160+2dup,not provided,Clinvar,,,not classified by submitter
+TSC2,975+1G>T,not provided,Clinvar,,,not classified by submitter
+TSC2,482-59G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,2859C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,2149delC,not provided,Clinvar,,,not classified by submitter
+TSC2,1040A>G,not provided,Clinvar,,,not classified by submitter
+TSC2,4828T>G,not provided,Clinvar,,,not classified by submitter
+TSC2,1789_1791dupCAC,not provided,Clinvar,,,not classified by submitter
+TSC2,1922G>T,not provided,Clinvar,,,not classified by submitter
+TSC2,4438_4439insA,not provided,Clinvar,,,not classified by submitter
+TSC2,3221delG,not provided,Clinvar,,,not classified by submitter
+TSC2,1566_1567dupCC,not provided,Clinvar,,,not classified by submitter
+TSC2,1119+6G>C,not provided,Clinvar,,,not classified by submitter
+TSC2,3943C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,975+13C>T,not provided,Clinvar,,,not classified by submitter
+TSC2,978dupC,not provided,Clinvar,,,not classified by submitter
+TSC2,4375delC,not provided,Clinvar,,,not classified by submitter
+TSC2,45_51delTAAGATT,not provided,Clinvar,,,not classified by submitter
+TSC2,704G>A,not provided,Clinvar,,,not classified by submitter
+TSC2,727delC,not provided,Clinvar,,,not classified by submitter
+TSC1,1001C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,853T>G,not provided,Clinvar,,,not classified by submitter
+TSC1,532G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,3169G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,3103G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,3140C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,2221A>C,not provided,Clinvar,,,not classified by submitter
+TSC1,1526G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,1921C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,1342C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,1369A>C,not provided,Clinvar,,,not classified by submitter
+TSC1,1208C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,1079C>A,not provided,Clinvar,,,not classified by submitter
+TSC1,346T>G,not provided,Clinvar,,,not classified by submitter
+TSC1,250G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,1029+34C>G,not provided,Clinvar,,,not classified by submitter
+TSC1,1263+88A>G,not provided,Clinvar,,,not classified by submitter
+TSC1,965T>C,Benign,Clinvar,,,classified by single submitter
+TSC1,3324C>T,Benign,Clinvar,,,classified by single submitter
+TSC1,2829C>T,Benign,Clinvar,,,classified by single submitter
+TSC1,2194C>T,Likely benign,Clinvar,,,classified by single submitter
+TSC1,1760A>G,Benign,Clinvar,,,classified by single submitter
+TSC1,1335A>G,Benign,Clinvar,,,classified by single submitter
+TSC1,1382G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,1700C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,2776C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,2226A>G,not provided,Clinvar,,,not classified by submitter
+TSC1,1525C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,1503delA,not provided,Clinvar,,,not classified by submitter
+TSC1,473T>C,not provided,Clinvar,,,not classified by submitter
+TSC1,737+1G>T,not provided,Clinvar,,,not classified by submitter
+TSC1,2672delA,not provided,Clinvar,,,not classified by submitter
+TSC1,2485A>T,not provided,Clinvar,,,not classified by submitter
+TSC1,2128C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,276_277insAA,not provided,Clinvar,,,not classified by submitter
+TSC1,2749G>C,not provided,Clinvar,,,not classified by submitter
+TSC1,814G>T,not provided,Clinvar,,,not classified by submitter
+TSC1,2698C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,989delT,not provided,Clinvar,,,not classified by submitter
+TSC1,2046_2047delTC,not provided,Clinvar,,,not classified by submitter
+TSC1,866C>G,not provided,Clinvar,,,not classified by submitter
+TSC1,2976-18T>C,not provided,Clinvar,,,not classified by submitter
+TSC1,2582delT,not provided,Clinvar,,,not classified by submitter
+TSC1,542A>C,not provided,Clinvar,,,not classified by submitter
+TSC1,1084C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,1726T>C,not provided,Clinvar,,,not classified by submitter
+TSC1,1922C>A,not provided,Clinvar,,,not classified by submitter
+TSC1,2389C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,146delA,not provided,Clinvar,,,not classified by submitter
+TSC1,1997+17C>G,not provided,Clinvar,,,not classified by submitter
+TSC1,2932C>G,not provided,Clinvar,,,not classified by submitter
+TSC1,1757_1768delGTAAAATTCCACinsCA,not provided,Clinvar,,,not classified by submitter
+TSC1,1439-2A>T,not provided,Clinvar,,,not classified by submitter
+TSC1,1368A>C,not provided,Clinvar,,,not classified by submitter
+TSC1,2342_2343insAA,not provided,Clinvar,,,not classified by submitter
+TSC1,1849C>G,not provided,Clinvar,,,not classified by submitter
+TSC1,1007_1016delGGCTGATAAC,not provided,Clinvar,,,not classified by submitter
+TSC1,1343C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,3303G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,2626-1G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,891T>G,not provided,Clinvar,,,not classified by submitter
+TSC1,1759A>T,not provided,Clinvar,,,not classified by submitter
+TSC1,2781_2784delGAAA,not provided,Clinvar,,,not classified by submitter
+TSC1,376G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,2041+1G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,1231C>A,not provided,Clinvar,,,not classified by submitter
+TSC1,2106delAinsGT,not provided,Clinvar,,,not classified by submitter
+TSC1,624delT,not provided,Clinvar,,,not classified by submitter
+TSC1,1579C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,648delT,not provided,Clinvar,,,not classified by submitter
+TSC1,611G>C,not provided,Clinvar,,,not classified by submitter
+TSC1,663+10A>C,not provided,Clinvar,,,not classified by submitter
+TSC1,1166delG,not provided,Clinvar,,,not classified by submitter
+TSC1,163C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,3147G>C,not provided,Clinvar,,,not classified by submitter
+TSC1,658G>T,not provided,Clinvar,,,not classified by submitter
+TSC1,1664delT,not provided,Clinvar,,,not classified by submitter
+TSC1,2657_2658delAA,not provided,Clinvar,,,not classified by submitter
+TSC1,921T>C,not provided,Clinvar,,,not classified by submitter
+TSC1,2523C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,738-20A>G,not provided,Clinvar,,,not classified by submitter
+TSC1,1535_1536delTC,not provided,Clinvar,,,not classified by submitter
+TSC1,2392-1G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,2191G>T,not provided,Clinvar,,,not classified by submitter
+TSC1,1141+1G>T,not provided,Clinvar,,,not classified by submitter
+TSC1,1680_1702del23,not provided,Clinvar,,,not classified by submitter
+TSC1,211-1G>T,not provided,Clinvar,,,not classified by submitter
+TSC1,712A>T,not provided,Clinvar,,,not classified by submitter
+TSC1,1876G>T,not provided,Clinvar,,,not classified by submitter
+TSC1,2431C>G,not provided,Clinvar,,,not classified by submitter
+TSC1,1439-25C>A,not provided,Clinvar,,,not classified by submitter
+TSC1,3127_3129delAGC,not provided,Clinvar,,,not classified by submitter
+TSC1,1766delC,not provided,Clinvar,,,not classified by submitter
+TSC1,182T>G,not provided,Clinvar,,,not classified by submitter
+TSC1,1572C>G,not provided,Clinvar,,,not classified by submitter
+TSC1,231C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,1007G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,915G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,966G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,3436G>T,not provided,Clinvar,,,not classified by submitter
+TSC1,2652T>A,not provided,Clinvar,,,not classified by submitter
+TSC1,1439-1G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,2093T>G,not provided,Clinvar,,,not classified by submitter
+TSC1,1907_1908delAG,not provided,Clinvar,,,not classified by submitter
+TSC1,508+1G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,2080C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,1911delA,not provided,Clinvar,,,not classified by submitter
+TSC1,2478G>C,not provided,Clinvar,,,not classified by submitter
+TSC1,2077G>C,not provided,Clinvar,,,not classified by submitter
+TSC1,2050_2052delCCT,not provided,Clinvar,,,not classified by submitter
+TSC1,1366_1367delCT,not provided,Clinvar,,,not classified by submitter
+TSC1,1452delA,not provided,Clinvar,,,not classified by submitter
+TSC1,1884_1905del22,not provided,Clinvar,,,not classified by submitter
+TSC1,324_325delTC,not provided,Clinvar,,,not classified by submitter
+TSC1,530delT,not provided,Clinvar,,,not classified by submitter
+TSC1,1964delA,not provided,Clinvar,,,not classified by submitter
+TSC1,1249delA,not provided,Clinvar,,,not classified by submitter
+TSC1,2101_2107delCAGTTAC,not provided,Clinvar,,,not classified by submitter
+TSC1,-129A>T,not provided,Clinvar,,,not classified by submitter
+TSC1,2080C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,2658delA,not provided,Clinvar,,,not classified by submitter
+TSC1,2074C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,395G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,2272C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,1669delC,not provided,Clinvar,,,not classified by submitter
+TSC1,2329delA,not provided,Clinvar,,,not classified by submitter
+TSC1,1250delC,not provided,Clinvar,,,not classified by submitter
+TSC1,397G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,260T>G,not provided,Clinvar,,,not classified by submitter
+TSC1,325C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,2164A>T,not provided,Clinvar,,,not classified by submitter
+TSC1,3103G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,1648C>G,not provided,Clinvar,,,not classified by submitter
+TSC1,1960C>G,not provided,Clinvar,,,not classified by submitter
+TSC1,2696C>G,not provided,Clinvar,,,not classified by submitter
+TSC1,994_995insA,not provided,Clinvar,,,not classified by submitter
+TSC1,989_990delTG,not provided,Clinvar,,,not classified by submitter
+TSC1,988_989delCT,not provided,Clinvar,,,not classified by submitter
+TSC1,973C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,972G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,936C>A,not provided,Clinvar,,,not classified by submitter
+TSC1,914-18T>C,not provided,Clinvar,,,not classified by submitter
+TSC1,913G>T,not provided,Clinvar,,,not classified by submitter
+TSC1,913G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,913+1G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,912T>G,not provided,Clinvar,,,not classified by submitter
+TSC1,901_902delCA,not provided,Clinvar,,,not classified by submitter
+TSC1,901C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,891T>G,not provided,Clinvar,,,not classified by submitter
+TSC1,891T>A,not provided,Clinvar,,,not classified by submitter
+TSC1,845C>A,not provided,Clinvar,,,not classified by submitter
+TSC1,838C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,834_835delTC,not provided,Clinvar,,,not classified by submitter
+TSC1,831_832delGT,not provided,Clinvar,,,not classified by submitter
+TSC1,830_831delTG,not provided,Clinvar,,,not classified by submitter
+TSC1,825T>G,not provided,Clinvar,,,not classified by submitter
+TSC1,813T>A,not provided,Clinvar,,,not classified by submitter
+TSC1,812_813delAT,not provided,Clinvar,,,not classified by submitter
+TSC1,772G>T,not provided,Clinvar,,,not classified by submitter
+TSC1,771delC,not provided,Clinvar,,,not classified by submitter
+TSC1,749delT,not provided,Clinvar,,,not classified by submitter
+TSC1,749T>G,not provided,Clinvar,,,not classified by submitter
+TSC1,749T>A,not provided,Clinvar,,,not classified by submitter
+TSC1,745delA,not provided,Clinvar,,,not classified by submitter
+TSC1,745A>T,not provided,Clinvar,,,not classified by submitter
+TSC1,742A>T,not provided,Clinvar,,,not classified by submitter
+TSC1,738G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,738-2A>G,not provided,Clinvar,,,not classified by submitter
+TSC1,737delG,not provided,Clinvar,,,not classified by submitter
+TSC1,737G>C,not provided,Clinvar,,,not classified by submitter
+TSC1,737G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,737+3A>G,not provided,Clinvar,,,not classified by submitter
+TSC1,737+1G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,733C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,732delT,not provided,Clinvar,,,not classified by submitter
+TSC1,724C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,720_721insA,not provided,Clinvar,,,not classified by submitter
+TSC1,70delG,not provided,Clinvar,,,not classified by submitter
+TSC1,694delG,not provided,Clinvar,,,not classified by submitter
+TSC1,694G>T,not provided,Clinvar,,,not classified by submitter
+TSC1,682C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,671T>G,not provided,Clinvar,,,not classified by submitter
+TSC1,665delC,not provided,Clinvar,,,not classified by submitter
+TSC1,664-1G>C,not provided,Clinvar,,,not classified by submitter
+TSC1,664-1G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,664-15A>G,not provided,Clinvar,,,not classified by submitter
+TSC1,663+7T>A,not provided,Clinvar,,,not classified by submitter
+TSC1,663+38_663+39insC,not provided,Clinvar,,,not classified by submitter
+TSC1,663+1G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,647_648delTT,not provided,Clinvar,,,not classified by submitter
+TSC1,647T>C,not provided,Clinvar,,,not classified by submitter
+TSC1,618T>C,not provided,Clinvar,,,not classified by submitter
+TSC1,615T>C,not provided,Clinvar,,,not classified by submitter
+TSC1,602_604delCCT,not provided,Clinvar,,,not classified by submitter
+TSC1,598G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,597_603delCGTCTCC,not provided,Clinvar,,,not classified by submitter
+TSC1,593_595delACT,not provided,Clinvar,,,not classified by submitter
+TSC1,585C>A,not provided,Clinvar,,,not classified by submitter
+TSC1,576T>G,not provided,Clinvar,,,not classified by submitter
+TSC1,575delA,not provided,Clinvar,,,not classified by submitter
+TSC1,572T>G,not provided,Clinvar,,,not classified by submitter
+TSC1,572T>A,not provided,Clinvar,,,not classified by submitter
+TSC1,569delG,not provided,Clinvar,,,not classified by submitter
+TSC1,569G>C,not provided,Clinvar,,,not classified by submitter
+TSC1,568C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,563_564delTT,not provided,Clinvar,,,not classified by submitter
+TSC1,555C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,552G>C,not provided,Clinvar,,,not classified by submitter
+TSC1,539T>C,not provided,Clinvar,,,not classified by submitter
+TSC1,532G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,526_527delTA,not provided,Clinvar,,,not classified by submitter
+TSC1,520G>T,not provided,Clinvar,,,not classified by submitter
+TSC1,509-15G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,508+1G>C,not provided,Clinvar,,,not classified by submitter
+TSC1,504delA,not provided,Clinvar,,,not classified by submitter
+TSC1,491G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,489A>T,not provided,Clinvar,,,not classified by submitter
+TSC1,473T>G,not provided,Clinvar,,,not classified by submitter
+TSC1,445C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,433_434delCA,not provided,Clinvar,,,not classified by submitter
+TSC1,433C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,397G>T,not provided,Clinvar,,,not classified by submitter
+TSC1,395_406delGCGTCTTGGTGTinsCA,not provided,Clinvar,,,not classified by submitter
+TSC1,381_383delTGT,not provided,Clinvar,,,not classified by submitter
+TSC1,379_381delGTT,not provided,Clinvar,,,not classified by submitter
+TSC1,364-1G>C,not provided,Clinvar,,,not classified by submitter
+TSC1,363G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,363+5G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,363+47T>C,not provided,Clinvar,,,not classified by submitter
+TSC1,363+1G>T,not provided,Clinvar,,,not classified by submitter
+TSC1,363+1G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,362A>G,not provided,Clinvar,,,not classified by submitter
+TSC1,350T>C,not provided,Clinvar,,,not classified by submitter
+TSC1,338delT,not provided,Clinvar,,,not classified by submitter
+TSC1,3322G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,3321C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,3303G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,3290G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,3231T>C,not provided,Clinvar,,,not classified by submitter
+TSC1,3216C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,3195G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,3184C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,309G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,308G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,3030G>T,not provided,Clinvar,,,not classified by submitter
+TSC1,2976-54G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,2976-43G>C,not provided,Clinvar,,,not classified by submitter
+TSC1,2829_2830insGGCCT,not provided,Clinvar,,,not classified by submitter
+TSC1,2814-27A>G,not provided,Clinvar,,,not classified by submitter
+TSC1,2806C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,278T>G,not provided,Clinvar,,,not classified by submitter
+TSC1,2786_2787delAT,not provided,Clinvar,,,not classified by submitter
+TSC1,2781G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,272C>A,not provided,Clinvar,,,not classified by submitter
+TSC1,271_272delTC,not provided,Clinvar,,,not classified by submitter
+TSC1,2716C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,2699delA,not provided,Clinvar,,,not classified by submitter
+TSC1,2694delG,not provided,Clinvar,,,not classified by submitter
+TSC1,2692C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,2689C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,2674_2675delAG,not provided,Clinvar,,,not classified by submitter
+TSC1,2653C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,2647G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,2626-2A>G,not provided,Clinvar,,,not classified by submitter
+TSC1,2625+1G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,260_261insGA,not provided,Clinvar,,,not classified by submitter
+TSC1,2595delA,not provided,Clinvar,,,not classified by submitter
+TSC1,2569delG,not provided,Clinvar,,,not classified by submitter
+TSC1,2559_2562delGGTT,not provided,Clinvar,,,not classified by submitter
+TSC1,2528_2534delAGCAGAT,not provided,Clinvar,,,not classified by submitter
+TSC1,250G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,2509_2512delAACA,not provided,Clinvar,,,not classified by submitter
+TSC1,2508_2511delAAAC,not provided,Clinvar,,,not classified by submitter
+TSC1,2507C>G,not provided,Clinvar,,,not classified by submitter
+TSC1,2503-35T>C,not provided,Clinvar,,,not classified by submitter
+TSC1,2503-2A>G,not provided,Clinvar,,,not classified by submitter
+TSC1,2503-21T>C,not provided,Clinvar,,,not classified by submitter
+TSC1,2503-1G>T,not provided,Clinvar,,,not classified by submitter
+TSC1,2497C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,2485A>C,not provided,Clinvar,,,not classified by submitter
+TSC1,2471_2472delCT,not provided,Clinvar,,,not classified by submitter
+TSC1,2470_2471delAC,not provided,Clinvar,,,not classified by submitter
+TSC1,2468delA,not provided,Clinvar,,,not classified by submitter
+TSC1,2468_2469insG,not provided,Clinvar,,,not classified by submitter
+TSC1,2465_2466delGT,not provided,Clinvar,,,not classified by submitter
+TSC1,245A>C,not provided,Clinvar,,,not classified by submitter
+TSC1,2456_2459delACAA,not provided,Clinvar,,,not classified by submitter
+TSC1,2425G>C,not provided,Clinvar,,,not classified by submitter
+TSC1,2420T>C,not provided,Clinvar,,,not classified by submitter
+TSC1,2411_2424delGGAACATGATTGCG,not provided,Clinvar,,,not classified by submitter
+TSC1,2407delT,not provided,Clinvar,,,not classified by submitter
+TSC1,2401G>T,not provided,Clinvar,,,not classified by submitter
+TSC1,2364delA,not provided,Clinvar,,,not classified by submitter
+TSC1,2362G>T,not provided,Clinvar,,,not classified by submitter
+TSC1,2360_2364delAGGAA,not provided,Clinvar,,,not classified by submitter
+TSC1,2357delG,not provided,Clinvar,,,not classified by submitter
+TSC1,2356C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,2347C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,2341C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,2332C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,2328_2329delCA,not provided,Clinvar,,,not classified by submitter
+TSC1,2319delC,not provided,Clinvar,,,not classified by submitter
+TSC1,2317delA,not provided,Clinvar,,,not classified by submitter
+TSC1,2299C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,2298_2320del23,not provided,Clinvar,,,not classified by submitter
+TSC1,2293C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,2291delT,not provided,Clinvar,,,not classified by submitter
+TSC1,2287C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,2285A>G,not provided,Clinvar,,,not classified by submitter
+TSC1,2283C>G,not provided,Clinvar,,,not classified by submitter
+TSC1,2283C>A,not provided,Clinvar,,,not classified by submitter
+TSC1,227T>A,not provided,Clinvar,,,not classified by submitter
+TSC1,2279_2294del16,not provided,Clinvar,,,not classified by submitter
+TSC1,2268_2271delAGAA,not provided,Clinvar,,,not classified by submitter
+TSC1,2260C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,2250G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,2249G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,2227C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,2209-9C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,2209-35A>G,not provided,Clinvar,,,not classified by submitter
+TSC1,2208+23G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,2191delG,not provided,Clinvar,,,not classified by submitter
+TSC1,2177C>A,not provided,Clinvar,,,not classified by submitter
+TSC1,2173_2176delAAAG,not provided,Clinvar,,,not classified by submitter
+TSC1,2169delG,not provided,Clinvar,,,not classified by submitter
+TSC1,215T>C,not provided,Clinvar,,,not classified by submitter
+TSC1,2145delG,not provided,Clinvar,,,not classified by submitter
+TSC1,2135_2139delATGCC,not provided,Clinvar,,,not classified by submitter
+TSC1,2134_2138delCATGC,not provided,Clinvar,,,not classified by submitter
+TSC1,2131C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,2112T>A,not provided,Clinvar,,,not classified by submitter
+TSC1,2111_2112delAT,not provided,Clinvar,,,not classified by submitter
+TSC1,211-2A>C,not provided,Clinvar,,,not classified by submitter
+TSC1,211-1G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,211-16T>C,not provided,Clinvar,,,not classified by submitter
+TSC1,2109_2110delCT,not provided,Clinvar,,,not classified by submitter
+TSC1,2104_2105insTAGTT,not provided,Clinvar,,,not classified by submitter
+TSC1,2103_2106delGTTA,not provided,Clinvar,,,not classified by submitter
+TSC1,2103G>T,not provided,Clinvar,,,not classified by submitter
+TSC1,2102_2105delAGTT,not provided,Clinvar,,,not classified by submitter
+TSC1,2101delC,not provided,Clinvar,,,not classified by submitter
+TSC1,2101_2102delCA,not provided,Clinvar,,,not classified by submitter
+TSC1,210+33G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,210+1G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,210+18A>G,not provided,Clinvar,,,not classified by submitter
+TSC1,2094delG,not provided,Clinvar,,,not classified by submitter
+TSC1,2090delT,not provided,Clinvar,,,not classified by submitter
+TSC1,2082delG,not provided,Clinvar,,,not classified by submitter
+TSC1,2074C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,2069_2074delCCCTCCinsACACTT,not provided,Clinvar,,,not classified by submitter
+TSC1,2054C>A,not provided,Clinvar,,,not classified by submitter
+TSC1,2042-5A>G,not provided,Clinvar,,,not classified by submitter
+TSC1,2042-2A>G,not provided,Clinvar,,,not classified by submitter
+TSC1,2041G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,2041+2T>C,not provided,Clinvar,,,not classified by submitter
+TSC1,2041+2T>A,not provided,Clinvar,,,not classified by submitter
+TSC1,203A>G,not provided,Clinvar,,,not classified by submitter
+TSC1,2039G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,2030_2040delCCCACTTTGGA,not provided,Clinvar,,,not classified by submitter
+TSC1,2028G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,2023delG,not provided,Clinvar,,,not classified by submitter
+TSC1,2022delC,not provided,Clinvar,,,not classified by submitter
+TSC1,2022C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,2006T>G,not provided,Clinvar,,,not classified by submitter
+TSC1,1998G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,1998-54C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,1998-1G>C,not provided,Clinvar,,,not classified by submitter
+TSC1,1998-1G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,1997+1G>C,not provided,Clinvar,,,not classified by submitter
+TSC1,1997+1G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,1976C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,1974C>G,not provided,Clinvar,,,not classified by submitter
+TSC1,1968A>C,not provided,Clinvar,,,not classified by submitter
+TSC1,1963C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,1958_1959delTA,not provided,Clinvar,,,not classified by submitter
+TSC1,1955_1956delTG,not provided,Clinvar,,,not classified by submitter
+TSC1,1942delG,not provided,Clinvar,,,not classified by submitter
+TSC1,191_199delTGCAAGAGC,not provided,Clinvar,,,not classified by submitter
+TSC1,1907_1908delAG,not provided,Clinvar,,,not classified by submitter
+TSC1,1904_1905delCA,not provided,Clinvar,,,not classified by submitter
+TSC1,1903_1904delAC,not provided,Clinvar,,,not classified by submitter
+TSC1,1888_1891delAAAG,not provided,Clinvar,,,not classified by submitter
+TSC1,1886delA,not provided,Clinvar,,,not classified by submitter
+TSC1,1883T>G,not provided,Clinvar,,,not classified by submitter
+TSC1,1883T>A,not provided,Clinvar,,,not classified by submitter
+TSC1,1857delT,not provided,Clinvar,,,not classified by submitter
+TSC1,1851delT,not provided,Clinvar,,,not classified by submitter
+TSC1,1841delA,not provided,Clinvar,,,not classified by submitter
+TSC1,1839A>G,not provided,Clinvar,,,not classified by submitter
+TSC1,182T>C,not provided,Clinvar,,,not classified by submitter
+TSC1,1825G>T,not provided,Clinvar,,,not classified by submitter
+TSC1,1823_1824delTT,not provided,Clinvar,,,not classified by submitter
+TSC1,181_189delCTGACCACC,not provided,Clinvar,,,not classified by submitter
+TSC1,1788delT,not provided,Clinvar,,,not classified by submitter
+TSC1,1777A>T,not provided,Clinvar,,,not classified by submitter
+TSC1,1776G>T,not provided,Clinvar,,,not classified by submitter
+TSC1,1767A>G,not provided,Clinvar,,,not classified by submitter
+TSC1,1761A>G,not provided,Clinvar,,,not classified by submitter
+TSC1,1757_1765delGTAAAATTC,not provided,Clinvar,,,not classified by submitter
+TSC1,1749_1750delCA,not provided,Clinvar,,,not classified by submitter
+TSC1,1736delG,not provided,Clinvar,,,not classified by submitter
+TSC1,1731G>C,not provided,Clinvar,,,not classified by submitter
+TSC1,1729G>T,not provided,Clinvar,,,not classified by submitter
+TSC1,1727_1748del22insG,not provided,Clinvar,,,not classified by submitter
+TSC1,1727_1742del16,not provided,Clinvar,,,not classified by submitter
+TSC1,1726T>C,not provided,Clinvar,,,not classified by submitter
+TSC1,1724C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,1717C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,1708_1709delAG,not provided,Clinvar,,,not classified by submitter
+TSC1,1697delC,not provided,Clinvar,,,not classified by submitter
+TSC1,1692_1693delAA,not provided,Clinvar,,,not classified by submitter
+TSC1,1687delG,not provided,Clinvar,,,not classified by submitter
+TSC1,1671_1693del23,not provided,Clinvar,,,not classified by submitter
+TSC1,1669delC,not provided,Clinvar,,,not classified by submitter
+TSC1,1669C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,1662delC,not provided,Clinvar,,,not classified by submitter
+TSC1,163C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,1630_1646del17,not provided,Clinvar,,,not classified by submitter
+TSC1,1615delT,not provided,Clinvar,,,not classified by submitter
+TSC1,1580_1581delAG,not provided,Clinvar,,,not classified by submitter
+TSC1,1579C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,1567G>C,not provided,Clinvar,,,not classified by submitter
+TSC1,1559delA,not provided,Clinvar,,,not classified by submitter
+TSC1,1542_1543insG,not provided,Clinvar,,,not classified by submitter
+TSC1,153A>C,not provided,Clinvar,,,not classified by submitter
+TSC1,1533delT,not provided,Clinvar,,,not classified by submitter
+TSC1,1529_1530delAC,not provided,Clinvar,,,not classified by submitter
+TSC1,1526G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,1525C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,1501G>T,not provided,Clinvar,,,not classified by submitter
+TSC1,149T>C,not provided,Clinvar,,,not classified by submitter
+TSC1,1499G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,1498C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,1490_1491delTG,not provided,Clinvar,,,not classified by submitter
+TSC1,148delC,not provided,Clinvar,,,not classified by submitter
+TSC1,1470delC,not provided,Clinvar,,,not classified by submitter
+TSC1,1462G>T,not provided,Clinvar,,,not classified by submitter
+TSC1,145delT,not provided,Clinvar,,,not classified by submitter
+TSC1,1439-2A>G,not provided,Clinvar,,,not classified by submitter
+TSC1,1438+6G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,1433A>G,not provided,Clinvar,,,not classified by submitter
+TSC1,1431_1434delAGAA,not provided,Clinvar,,,not classified by submitter
+TSC1,1411_1412insT,not provided,Clinvar,,,not classified by submitter
+TSC1,1379delC,not provided,Clinvar,,,not classified by submitter
+TSC1,1371T>C,not provided,Clinvar,,,not classified by submitter
+TSC1,1369delA,not provided,Clinvar,,,not classified by submitter
+TSC1,1366_1367insGA,not provided,Clinvar,,,not classified by submitter
+TSC1,1364delC,not provided,Clinvar,,,not classified by submitter
+TSC1,1361_1398del38,not provided,Clinvar,,,not classified by submitter
+TSC1,1354G>C,not provided,Clinvar,,,not classified by submitter
+TSC1,1338delG,not provided,Clinvar,,,not classified by submitter
+TSC1,1334-55C>G,not provided,Clinvar,,,not classified by submitter
+TSC1,1333+5A>G,not provided,Clinvar,,,not classified by submitter
+TSC1,1333+13C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,1331C>G,not provided,Clinvar,,,not classified by submitter
+TSC1,1331C>A,not provided,Clinvar,,,not classified by submitter
+TSC1,1303C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,1279delT,not provided,Clinvar,,,not classified by submitter
+TSC1,1271_1272del,not provided,Clinvar,,,not classified by submitter
+TSC1,126A>C,not provided,Clinvar,,,not classified by submitter
+TSC1,1264-12T>C,not provided,Clinvar,,,not classified by submitter
+TSC1,1257delC,not provided,Clinvar,,,not classified by submitter
+TSC1,1208C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,1203delT,not provided,Clinvar,,,not classified by submitter
+TSC1,1196_1209delCACTCTGTCATTCG,not provided,Clinvar,,,not classified by submitter
+TSC1,1152delA,not provided,Clinvar,,,not classified by submitter
+TSC1,1105C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,1097_1110delCACCTGATCTGTCA,not provided,Clinvar,,,not classified by submitter
+TSC1,1092_1105delTGTCCCACCTGATC,not provided,Clinvar,,,not classified by submitter
+TSC1,107-2A>G,not provided,Clinvar,,,not classified by submitter
+TSC1,1047A>G,not provided,Clinvar,,,not classified by submitter
+TSC1,1041G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,1040G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,1030delG,not provided,Clinvar,,,not classified by submitter
+TSC1,1030-9A>G,not provided,Clinvar,,,not classified by submitter
+TSC1,1030-3C>G,not provided,Clinvar,,,not classified by submitter
+TSC1,1030-1G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,1029+1G>A,not provided,Clinvar,,,not classified by submitter
+TSC1,1020delA,not provided,Clinvar,,,not classified by submitter
+TSC1,1006C>T,not provided,Clinvar,,,not classified by submitter
+TSC1,3103G>A,Likely benign,Clinvar,,,classified by single submitter
+TSC1,2696C>G,Uncertain significance,Clinvar,,,classified by single submitter
+TSC1,1960C>G,Likely benign,Clinvar,,,classified by single submitter
+TSC1,1648C>G,Uncertain significance,Clinvar,,,classified by single submitter
+TSC1,539T>C,Pathogenic,Clinvar,,,classified by single submitter
+TSC1,671T>G,Pathogenic,Clinvar,,,classified by single submitter
+TSC1,495C>A,Pathogenic,Clinvar,,,classified by single submitter
+CDKN2A,150+37G>C,not provided,Clinvar,,,not classified by submitter
+CDKN2A,150+20C>T,not provided,Clinvar,,,not classified by submitter
+CDKN2A,297G>T,not provided,Clinvar,,,not classified by submitter
+CDKN2A,273G>A,not provided,Clinvar,,,not classified by submitter
+CDKN2A,174A>C,not provided,Clinvar,,,not classified by submitter
+CDKN2A,458-492G>C,not provided,Clinvar,,,not classified by submitter
+CDKN2A,458-491C>T,not provided,Clinvar,,,not classified by submitter
+CDKN2A,379G>T,not provided,Clinvar,,,not classified by submitter
+CDKN2A,430C>T,not provided,Clinvar,,,not classified by submitter
+CDKN2A,16G>A,not provided,Clinvar,,,not classified by submitter
+CDKN2A,149A>T,not provided,Clinvar,,,not classified by submitter
+CDKN2A,442G>A,Benign,Clinvar,,,classified by single submitter
+CDKN2A,301G>T,Pathogenic,Clinvar,,,classified by single submitter
+CDKN2A,150+37G>C,Likely benign,Clinvar,,,classified by single submitter
+CDKN2A,442G>A,Benign,Clinvar,,,classified by single submitter
+CDKN2A,273G>C,not provided,Clinvar,,,not classified by submitter
+CDKN2A,341C>T,not provided,Clinvar,,,not classified by submitter
+CDKN2A,169dupG,not provided,Clinvar,,,not classified by submitter
+CDKN2A,238C>T,not provided,Clinvar,,,not classified by submitter
+CDKN2A,184A>G,Uncertain significance,Clinvar,,,classified by single submitter
+CDKN2A,442G>A,Benign,Clinvar,,,classified by single submitter
+CDKN2A,379G>T,Benign,Clinvar,,,classified by single submitter
+CDKN2A,373G>C,Uncertain significance,Clinvar,,,classified by single submitter
+CDKN2A,150+76del,Uncertain significance,Clinvar,,,classified by single submitter
+CDKN2A,150+37G>C,Uncertain significance,Clinvar,,,classified by single submitter
+CDKN2A,266G>A,risk factor,Clinvar,,,classified by single submitter
+CDKN2A,167G>T,risk factor,Clinvar,,,classified by single submitter
+CDKN2A,339_340delGCinsCT,risk factor,Clinvar,,,classified by single submitter
+CDKN2A,176T>G,risk factor,Clinvar,,,classified by single submitter
+CDKN2A,377T>A,risk factor,Clinvar,,,classified by single submitter
+CDKN2A,71G>C,risk factor,Clinvar,,,classified by single submitter
+CDKN2A,159G>C,risk factor,Clinvar,,,classified by single submitter
+CDKN2A,301G>T,Pathogenic,Clinvar,,,classified by single submitter
+CDKN2A,301G>T,risk factor,Clinvar,,,classified by single submitter
+CDKN2A,238C>T,risk factor,Clinvar,,,classified by single submitter
+CDKN2A,265G>A,risk factor,Clinvar,,,classified by single submitter
+CDKN2A,430C>T,Uncertain significance,Clinvar,,,classified by single submitter
+CDKN2A,174A>C,Uncertain significance,Clinvar,,,classified by single submitter
+CDKN2A,369T>A,Likely benign,Clinvar,,,classified by single submitter
+CDKN2A,325G>C,Uncertain significance,Clinvar,,,classified by single submitter
+CDKN2A,298G>T,Uncertain significance,Clinvar,,,classified by single submitter
+CDKN2A,146T>C,Uncertain significance,Clinvar,,,classified by single submitter
+CDKN2A,-25C>T,Uncertain significance,Clinvar,,,classified by single submitter
+CDKN2A,364G>C,risk factor,Clinvar,,,classified by single submitter
+CDKN2A,106dupG,Pathogenic,Clinvar,,,classified by single submitter
+NF1,8452G>A,not provided,Clinvar,,,not classified by submitter
+NF1,7774C>G,not provided,Clinvar,,,not classified by submitter
+NF1,7468G>C,not provided,Clinvar,,,not classified by submitter
+NF1,528T>A,not provided,Clinvar,,,not classified by submitter
+NF1,584A>G,not provided,Clinvar,,,not classified by submitter
+NF1,6109A>G,not provided,Clinvar,,,not classified by submitter
+NF1,456A>G,not provided,Clinvar,,,not classified by submitter
+NF1,4972A>G,not provided,Clinvar,,,not classified by submitter
+NF1,3415G>A,not provided,Clinvar,,,not classified by submitter
+NF1,2572T>C,not provided,Clinvar,,,not classified by submitter
+NF1,2033C>T,not provided,Clinvar,,,not classified by submitter
+NF1,1894T>A,not provided,Clinvar,,,not classified by submitter
+NF1,1955G>A,not provided,Clinvar,,,not classified by submitter
+NF1,1994C>T,not provided,Clinvar,,,not classified by submitter
+NF1,1933A>G,not provided,Clinvar,,,not classified by submitter
+NF1,1549G>A,not provided,Clinvar,,,not classified by submitter
+NF1,3198-482A>C,Uncertain significance,Clinvar,,,classified by single submitter
+NF1,5541T>A,not provided,Clinvar,,,not classified by submitter
+NF1,5540G>A,not provided,Clinvar,,,not classified by submitter
+NF1,5488C>T,not provided,Clinvar,,,not classified by submitter
+NF1,1392+1G>A,not provided,Clinvar,,,not classified by submitter
+NF1,988G>A,not provided,Clinvar,,,not classified by submitter
+NF1,970T>C,not provided,Clinvar,,,not classified by submitter
+NF1,92A>G,not provided,Clinvar,,,not classified by submitter
+NF1,7828A>G,not provided,Clinvar,,,not classified by submitter
+NF1,7006G>A,not provided,Clinvar,,,not classified by submitter
+NF1,6598C>G,not provided,Clinvar,,,not classified by submitter
+NF1,647T>C,not provided,Clinvar,,,not classified by submitter
+NF1,5971G>A,not provided,Clinvar,,,not classified by submitter
+NF1,5938G>A,not provided,Clinvar,,,not classified by submitter
+NF1,5795T>C,not provided,Clinvar,,,not classified by submitter
+NF1,5791T>C,not provided,Clinvar,,,not classified by submitter
+NF1,581T>G,not provided,Clinvar,,,not classified by submitter
+NF1,5290G>T,not provided,Clinvar,,,not classified by submitter
+NF1,4750A>G,not provided,Clinvar,,,not classified by submitter
+NF1,479G>C,not provided,Clinvar,,,not classified by submitter
+NF1,470T>A,not provided,Clinvar,,,not classified by submitter
+NF1,4402A>G,not provided,Clinvar,,,not classified by submitter
+NF1,4388C>T,not provided,Clinvar,,,not classified by submitter
+NF1,4294G>C,not provided,Clinvar,,,not classified by submitter
+NF1,4289A>C,not provided,Clinvar,,,not classified by submitter
+NF1,434T>C,not provided,Clinvar,,,not classified by submitter
+NF1,4274T>C,not provided,Clinvar,,,not classified by submitter
+NF1,4269G>T,not provided,Clinvar,,,not classified by submitter
+NF1,4268A>G,not provided,Clinvar,,,not classified by submitter
+NF1,4256A>G,not provided,Clinvar,,,not classified by submitter
+NF1,4255A>C,not provided,Clinvar,,,not classified by submitter
+NF1,4168C>T,not provided,Clinvar,,,not classified by submitter
+NF1,3827G>A,not provided,Clinvar,,,not classified by submitter
+NF1,3826C>G,not provided,Clinvar,,,not classified by submitter
+NF1,3749G>C,not provided,Clinvar,,,not classified by submitter
+NF1,3610C>T,not provided,Clinvar,,,not classified by submitter
+NF1,3610C>G,not provided,Clinvar,,,not classified by submitter
+NF1,3587T>G,not provided,Clinvar,,,not classified by submitter
+NF1,3578T>G,not provided,Clinvar,,,not classified by submitter
+NF1,350T>G,not provided,Clinvar,,,not classified by submitter
+NF1,3497G>A,not provided,Clinvar,,,not classified by submitter
+NF1,3467A>G,not provided,Clinvar,,,not classified by submitter
+NF1,3440T>C,not provided,Clinvar,,,not classified by submitter
+NF1,3217A>G,not provided,Clinvar,,,not classified by submitter
+NF1,2903T>G,not provided,Clinvar,,,not classified by submitter
+NF1,278G>A,not provided,Clinvar,,,not classified by submitter
+NF1,2759T>C,not provided,Clinvar,,,not classified by submitter
+NF1,2693T>C,not provided,Clinvar,,,not classified by submitter
+NF1,2617C>T,not provided,Clinvar,,,not classified by submitter
+NF1,2543G>A,not provided,Clinvar,,,not classified by submitter
+NF1,2540T>C,not provided,Clinvar,,,not classified by submitter
+NF1,2531T>C,not provided,Clinvar,,,not classified by submitter
+NF1,2530C>T,not provided,Clinvar,,,not classified by submitter
+NF1,245C>T,not provided,Clinvar,,,not classified by submitter
+NF1,2352G>C,not provided,Clinvar,,,not classified by submitter
+NF1,2350T>C,not provided,Clinvar,,,not classified by submitter
+NF1,2342A>C,not provided,Clinvar,,,not classified by submitter
+NF1,2339C>A,not provided,Clinvar,,,not classified by submitter
+NF1,2330G>C,not provided,Clinvar,,,not classified by submitter
+NF1,2326G>A,not provided,Clinvar,,,not classified by submitter
+NF1,2294G>A,not provided,Clinvar,,,not classified by submitter
+NF1,2288T>C,not provided,Clinvar,,,not classified by submitter
+NF1,221C>A,not provided,Clinvar,,,not classified by submitter
+NF1,2135A>G,not provided,Clinvar,,,not classified by submitter
+NF1,2084T>C,not provided,Clinvar,,,not classified by submitter
+NF1,1885G>A,not provided,Clinvar,,,not classified by submitter
+NF1,1810T>G,not provided,Clinvar,,,not classified by submitter
+NF1,1748A>G,not provided,Clinvar,,,not classified by submitter
+NF1,1742T>C,not provided,Clinvar,,,not classified by submitter
+NF1,1733T>G,not provided,Clinvar,,,not classified by submitter
+NF1,1646T>C,not provided,Clinvar,,,not classified by submitter
+NF1,1595T>C,not provided,Clinvar,,,not classified by submitter
+NF1,1556A>C,not provided,Clinvar,,,not classified by submitter
+NF1,1472A>G,not provided,Clinvar,,,not classified by submitter
+NF1,1178A>T,not provided,Clinvar,,,not classified by submitter
+NF1,1177C>G,not provided,Clinvar,,,not classified by submitter
+NF1,1013A>G,not provided,Clinvar,,,not classified by submitter
+NF1,1010A>T,not provided,Clinvar,,,not classified by submitter
+NF1,847G>T,Uncertain significance,Clinvar,,,classified by single submitter
+NF1,8042A>T,Uncertain significance,Clinvar,,,classified by single submitter
+NF1,7532C>T,Uncertain significance,Clinvar,,,classified by single submitter
+NF1,7331A>G,Uncertain significance,Clinvar,,,classified by single submitter
+NF1,730+2T>G,Benign,Clinvar,,,classified by single submitter
+NF1,6866C>T,Uncertain significance,Clinvar,,,classified by single submitter
+NF1,6719A>G,Uncertain significance,Clinvar,,,classified by single submitter
+NF1,528T>A,Benign,Clinvar,,,classified by single submitter
+NF1,4972A>G,Uncertain significance,Clinvar,,,classified by single submitter
+NF1,3998A>G,Uncertain significance,Clinvar,,,classified by single submitter
+NF1,2585C>G,Uncertain significance,Clinvar,,,classified by single submitter
+NF1,2033C>T,Uncertain significance,Clinvar,,,classified by single submitter
+NF1,1814T>C,Uncertain significance,Clinvar,,,classified by single submitter
+NF1,574C>T,Pathogenic,Clinvar,,,classified by single submitter
+NF1,4168C>T,Pathogenic,Clinvar,,,classified by single submitter
+NF1,2531T>G,Pathogenic,Clinvar,,,classified by single submitter
+NF1,5710G>T,Pathogenic,Clinvar,,,classified by single submitter
+NF1,3728T>C,Pathogenic,Clinvar,,,classified by single submitter
+NF1,7126+3A>C,Pathogenic,Clinvar,,,classified by single submitter
+NF1,1070T>C,Pathogenic,Clinvar,,,classified by single submitter
+NF1,1070T>C,Pathogenic,Clinvar,,,classified by single submitter
+NF1,945_946delGCinsAA,Pathogenic,Clinvar,,,classified by single submitter
+NF1,4095_4096insTG,Pathogenic,Clinvar,,,classified by single submitter
+NF1,4312_4314delGAA,Pathogenic,Clinvar,,,classified by single submitter
+NF1,2970_2972delAAT,Pathogenic,Clinvar,,,classified by single submitter
+NF1,2970_2972delAAT,Pathogenic,Clinvar,,,classified by single submitter
+NF1,5406_5407insT,Pathogenic,Clinvar,,,classified by single submitter
+NF1,3721C>T,Pathogenic,Clinvar,,,classified by single submitter
+NF1,5944-5A>G,Pathogenic,Clinvar,,,classified by single submitter
+NF1,5944-5A>G,Pathogenic,Clinvar,,,classified by single submitter
+NF1,6200T>C,Pathogenic,Clinvar,,,classified by single submitter
+NF1,4021C>T,Pathogenic,Clinvar,,,classified by single submitter
+NF1,1260+1G>A,Pathogenic,Clinvar,,,classified by single submitter
+NF1,1523T>C,Pathogenic,Clinvar,,,classified by single submitter
+NF1,1466A>G,Pathogenic,Clinvar,,,classified by single submitter
+NF1,3827G>C,Pathogenic,Clinvar,,,classified by single submitter
+NF1,1642-8A>G,Pathogenic,Clinvar,,,classified by single submitter
+NF1,4614G>A,Pathogenic,Clinvar,,,classified by single submitter
+NF1,8042dupA,Pathogenic,Clinvar,,,classified by single submitter
+NF1,4173A>T,Pathogenic,Clinvar,,,classified by single submitter
+NF1,3104T>G,Pathogenic,Clinvar,,,classified by single submitter
+NF1,1541_1542delAG,Pathogenic,Clinvar,,,classified by single submitter
+NF1,3113+1G>A,Pathogenic,Clinvar,,,classified by single submitter
+NF1,4084C>T,Pathogenic,Clinvar,,,classified by single submitter
+NF1,5839C>T,Pathogenic,Clinvar,,,classified by single submitter
+NF1,6511T>A,Pathogenic,Clinvar,,,classified by single submitter
+NF1,6427C>A,Pathogenic,Clinvar,,,classified by single submitter
+NF1,5465_5466insT,Pathogenic,Clinvar,,,classified by single submitter
+NF1,5448dupC,Pathogenic,Clinvar,,,classified by single submitter
+NF1,4267A>G,Pathogenic,Clinvar,,,classified by single submitter
+NF1,5845A>T,Pathogenic,Clinvar,,,classified by single submitter
+NF1,5795T>C,Pathogenic,Clinvar,,,classified by single submitter
+MEN1,1480C>T,not provided,Clinvar,,,not classified by submitter
+MEN1,1636G=,not provided,Clinvar,,,not classified by submitter
+MEN1,435C>T,Benign,Clinvar,,,classified by single submitter
+MEN1,527G>A,Benign,Clinvar,,,classified by single submitter
+MEN1,951C>G,Pathogenic,Clinvar,,,classified by single submitter
+MEN1,927+1G>A,Pathogenic,Clinvar,,,classified by single submitter
+MEN1,670-6C>T,Uncertain significance,Clinvar,,,classified by single submitter
+MEN1,527G>A,Benign,Clinvar,,,classified by single submitter
+MEN1,435C>T,Benign,Clinvar,,,classified by single submitter
+MEN1,1636G>A,Benign,Clinvar,,,classified by single submitter
+MEN1,1323G>T,Pathogenic,Clinvar,,,classified by single submitter
+MEN1,1269C>T,Benign,Clinvar,,,classified by single submitter
+MEN1,789G>C,Uncertain significance,Clinvar,,,classified by single submitter
+MEN1,527G>A,Benign,Clinvar,,,classified by single submitter
+MEN1,341G>T,Uncertain significance,Clinvar,,,classified by single submitter
+MEN1,1636G>A,Benign,Clinvar,,,classified by single submitter
+MEN1,1537C>G,Uncertain significance,Clinvar,,,classified by single submitter
+MEN1,970dupT,Likely pathogenic,Clinvar,,,classified by single submitter
+MEN1,951C>G,Likely pathogenic,Clinvar,,,classified by single submitter
+MEN1,773C>A,Likely pathogenic,Clinvar,,,classified by single submitter
+MEN1,659_667delTGGCTGAGCinsGCCCCT,Likely pathogenic,Clinvar,,,classified by single submitter
+MEN1,518T>C,Pathogenic,Clinvar,,,classified by single submitter
+MEN1,507C>T,Likely benign,Clinvar,,,classified by single submitter
+MEN1,480_481insAATT,Likely pathogenic,Clinvar,,,classified by single submitter
+MEN1,417C>G,Likely pathogenic,Clinvar,,,classified by single submitter
+MEN1,252dupT,Likely pathogenic,Clinvar,,,classified by single submitter
+MEN1,249G>A,Likely benign,Clinvar,,,classified by single submitter
+MEN1,211_212delCC,Pathogenic,Clinvar,,,classified by single submitter
+MEN1,1A>G,Likely pathogenic,Clinvar,,,classified by single submitter
+MEN1,1311G>A,conflicting data from submitters,Clinvar,,,classified by multiple submitters
+MEN1,1277G>A,Likely pathogenic,Clinvar,,,classified by single submitter
+MEN1,119_124delTGCTGG,Likely pathogenic,Clinvar,,,classified by single submitter
+MEN1,1189dupG,Likely pathogenic,Clinvar,,,classified by single submitter
+MEN1,1078delC,Likely pathogenic,Clinvar,,,classified by single submitter
+MEN1,1028dupT,Likely pathogenic,Clinvar,,,classified by single submitter
+MEN1,-20G>A,Uncertain significance,Clinvar,,,classified by single submitter
+MEN1,1077C>A,Pathogenic,Clinvar,,,classified by single submitter
+MEN1,1267G>A,Pathogenic,Clinvar,,,classified by multiple submitters
+MEN1,415C>G,Pathogenic,Clinvar,,,classified by single submitter
+MEN1,1669A>T,other,Clinvar,,,classified by single submitter
+MEN1,566T>A,Pathogenic,Clinvar,,,classified by single submitter
+MEN1,778G>A,Pathogenic,Clinvar,,,classified by single submitter
+MEN1,1089_1090delGGinsAA,other,Clinvar,,,classified by single submitter
+MEN1,403A>T,other,Clinvar,,,classified by single submitter
+MEN1,1393C>T,Pathogenic,Clinvar,,,classified by single submitter
+MEN1,793C>T,Pathogenic,Clinvar,,,classified by single submitter
+MEN1,76G>A,other,Clinvar,,,classified by single submitter
+MEN1,1594C>T,Pathogenic,Clinvar,,,classified by single submitter
+MEN1,1321T>A,Pathogenic,Clinvar,,,classified by single submitter
+MEN1,402delC,Pathogenic,Clinvar,,,classified by single submitter
+MEN1,65T>G,Pathogenic,Clinvar,,,classified by single submitter
+MEN1,612C>T,Benign,Clinvar,,,classified by single submitter
+MEN1,669+18C>T,Uncertain significance,Clinvar,,,classified by single submitter
+MEN1,1064+9C>T,Uncertain significance,Clinvar,,,classified by single submitter
+MEN1,1762T>G,Uncertain significance,Clinvar,,,classified by single submitter
+MEN1,1700dupA,Pathogenic,Clinvar,,,classified by single submitter
+MEN1,1394G>A,Uncertain significance,Clinvar,,,classified by single submitter
+MEN1,664_669+2delGAGCGGGT,Likely pathogenic,Clinvar,,,classified by single submitter
+MEN1,1322G>A,Pathogenic,Clinvar,,,classified by single submitter
+MEN1,608G>A,Pathogenic,Clinvar,,,classified by single submitter
+RAD50,980G>A,Uncertain significance,Clinvar,,,classified by single submitter
+RAD50,3036+5G>A,Uncertain significance,Clinvar,,,classified by single submitter
+RAD50,3684T>C,not provided,Clinvar,,,not classified by submitter
+RAD50,3618+90C>T,not provided,Clinvar,,,not classified by submitter
+RAD50,3230G>A,not provided,Clinvar,,,not classified by submitter
+RAD50,3165-4A>T,not provided,Clinvar,,,not classified by submitter
+RAD50,3165-155A>T,not provided,Clinvar,,,not classified by submitter
+RAD50,3164+35C>T,not provided,Clinvar,,,not classified by submitter
+RAD50,2719-31A>G,not provided,Clinvar,,,not classified by submitter
+RAD50,1114C>T,not provided,Clinvar,,,not classified by submitter
+RAD50,1052-38C>T,not provided,Clinvar,,,not classified by submitter
+RAD50,551+85A>G,not provided,Clinvar,,,not classified by submitter
+RAD50,494C>A,not provided,Clinvar,,,not classified by submitter
+RAD50,366-163T>C,not provided,Clinvar,,,not classified by submitter
+RAD50,214-44G>A,not provided,Clinvar,,,not classified by submitter
+RAD50,213+73A>C,not provided,Clinvar,,,not classified by submitter
+RAD50,-284C>A,not provided,Clinvar,,,not classified by submitter
+RAD50,-352G>A,not provided,Clinvar,,,not classified by submitter
+RAD50,3786C>T,not provided,Clinvar,,,not classified by submitter
+RAD50,2910C>T,Likely benign,Clinvar,,,classified by single submitter
+RAD50,3879C>T,Likely benign,Clinvar,,,classified by single submitter
+RAD50,2585A>G,Likely benign,Clinvar,,,classified by single submitter
+RAD50,572C>T,Likely benign,Clinvar,,,classified by single submitter
+RAD50,3036+5G>A,Uncertain significance,Clinvar,,,classified by single submitter
+RAD50,980G>A,Uncertain significance,Clinvar,,,classified by single submitter
+RAD50,1663A>G,Uncertain significance,Clinvar,,,classified by single submitter
+RAD50,3508G>A,Uncertain significance,Clinvar,,,classified by single submitter
+RAD50,2156dupT,Likely pathogenic,Clinvar,,,classified by single submitter
+RAD50,2821C>T,Likely pathogenic,Clinvar,,,classified by single submitter
+RAD50,3939A>T,Pathogenic,Clinvar,,,classified by single submitter
+RAD50,3277C>T,Pathogenic,Clinvar,,,classified by single submitter
+RAD50,943G>T,Uncertain significance,Clinvar,,,classified by single submitter
+RAD50,673G>A,Uncertain significance,Clinvar,,,classified by single submitter
+RAD50,671G>A,Uncertain significance,Clinvar,,,classified by single submitter
+RAD50,625G>C,Uncertain significance,Clinvar,,,classified by single submitter
+RAD50,3G>A,Pathogenic,Clinvar,,,classified by single submitter
+RAD50,379G>A,Uncertain significance,Clinvar,,,classified by single submitter
+RAD50,3789G>C,Uncertain significance,Clinvar,,,classified by single submitter
+RAD50,3777G>T,Uncertain significance,Clinvar,,,classified by single submitter
+RAD50,3467G>A,Uncertain significance,Clinvar,,,classified by single submitter
+RAD50,3455G>A,Uncertain significance,Clinvar,,,classified by single submitter
+RAD50,3310T>C,Uncertain significance,Clinvar,,,classified by single submitter
+RAD50,326_329delCAGA,Pathogenic,Clinvar,,,classified by single submitter
+RAD50,3253A>G,Uncertain significance,Clinvar,,,classified by single submitter
+RAD50,2983_2986delGAAA,Pathogenic,Clinvar,,,classified by single submitter
+RAD50,2929_2932delGAAA,Pathogenic,Clinvar,,,classified by single submitter
+RAD50,2840T>C,Uncertain significance,Clinvar,,,classified by single submitter
+RAD50,280A>C,Likely benign,Clinvar,,,classified by single submitter
+RAD50,2750C>T,Uncertain significance,Clinvar,,,classified by single submitter
+RAD50,265G>A,Uncertain significance,Clinvar,,,classified by single submitter
+RAD50,2651G>A,Uncertain significance,Clinvar,,,classified by single submitter
+RAD50,2647C>T,Uncertain significance,Clinvar,,,classified by single submitter
+RAD50,260G>A,Uncertain significance,Clinvar,,,classified by single submitter
+RAD50,2548C>T,Uncertain significance,Clinvar,,,classified by single submitter
+RAD50,2525T>C,Uncertain significance,Clinvar,,,classified by single submitter
+RAD50,2397G>C,Uncertain significance,Clinvar,,,classified by single submitter
+RAD50,2288G>A,Uncertain significance,Clinvar,,,classified by single submitter
+RAD50,2213G>A,Uncertain significance,Clinvar,,,classified by single submitter
+RAD50,2177G>A,Uncertain significance,Clinvar,,,classified by single submitter
+RAD50,1911T>A,Uncertain significance,Clinvar,,,classified by single submitter
+RAD50,1838A>G,Uncertain significance,Clinvar,,,classified by single submitter
+RAD50,1534G>T,Uncertain significance,Clinvar,,,classified by single submitter
+RAD50,1393C>T,Pathogenic,Clinvar,,,classified by single submitter
+RAD50,137T>A,Uncertain significance,Clinvar,,,classified by single submitter
+RAD50,1328T>C,Uncertain significance,Clinvar,,,classified by single submitter
+RAD50,1300_1306dupGATAAGA,Pathogenic,Clinvar,,,classified by single submitter
+RAD50,1277A>G,Uncertain significance,Clinvar,,,classified by single submitter
+RAD50,1211A>G,Uncertain significance,Clinvar,,,classified by single submitter
+RAD50,1117T>G,Uncertain significance,Clinvar,,,classified by single submitter
+RAD50,1094G>A,Uncertain significance,Clinvar,,,classified by single submitter
+SMAD4,947A>G,not provided,Clinvar,,,not classified by submitter
+SMAD4,880A>G,not provided,Clinvar,,,not classified by submitter
+SMAD4,565C>T,not provided,Clinvar,,,not classified by submitter
+SMAD4,38A>G,not provided,Clinvar,,,not classified by submitter
+SMAD4,565C>T,Uncertain significance,Clinvar,,,classified by single submitter
+SMAD4,1573A>G,Uncertain significance,Clinvar,,,classified by single submitter
+SMAD4,1486C>T,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,989A>G,not provided,Clinvar,,,not classified by submitter
+SMAD4,38A>G,not provided,Clinvar,,,not classified by submitter
+SMAD4,1500A>G,not provided,Clinvar,,,not classified by submitter
+SMAD4,1499T>C,not provided,Clinvar,,,not classified by submitter
+SMAD4,1498A>G,not provided,Clinvar,,,not classified by submitter
+SMAD4,1081C>T,not provided,Clinvar,,,not classified by submitter
+SMAD4,1054G>A,not provided,Clinvar,,,not classified by submitter
+SMAD4,565C>T,Uncertain significance,Clinvar,,,classified by single submitter
+SMAD4,1573A>G,Uncertain significance,Clinvar,,,classified by single submitter
+SMAD4,1447+1G>A,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,424+1G>A,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1500A>G,Pathogenic,Clinvar,,,classified by multiple submitters
+SMAD4,1498A>G,Pathogenic,Clinvar,,,classified by multiple submitters
+SMAD4,1499T>C,Pathogenic,Clinvar,,,classified by multiple submitters
+SMAD4,1333C>T,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1612_1625del,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1607dupT,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1598T>C,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1600C>T,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1598T>G,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1597C>G,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1596delC,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1596_1597delCCinsT,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1594delG,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1586_1587dupTA,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1588delC,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1587dupA,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1571G>T,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1564_1565delCC,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1550_1551insAGAG,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1547_1550dupAGAG,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1544delG,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1529G>T,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1527G>A,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1525T>A,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1478A>C,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1472G>T,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1421delC,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1411_1435del,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1409_1410insCCCT,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1361_1364delCACA,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1343_1365del,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1342C>T,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1333C>T,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1268delG,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1242delA,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1244_1247delACAG,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1236C>G,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1193G>A,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1168G>A,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1162C>T,Pathogenic,Clinvar,,,classified by multiple submitters
+SMAD4,1157G>A,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1148T>A,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1139+1G>A,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1139G>A,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1113delC,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1102_1103delTC,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1091T>G,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1088_1090delGTT,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1087T>C,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1082G>T,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1082G>A,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1081C>T,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1081C>G,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1058A>C,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1055G>A,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1054G>A,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1042_1043delGT,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1037delC,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,989A>G,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,988G>A,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1081C>A,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,982_983insT,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,971delG,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,970T>C,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,925_928dupGCAT,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,831_832delAC,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,829_830delAC,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,729_730insCCGC,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,692dupG,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,692dupG,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,608delC,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,538C>T,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,533C>G,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,516_527del,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,437T>A,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,430_431delTC,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,425-6A>G,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,403C>T,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,375_381dupTGTCTGT,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,373_374insAT,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,354G>A,Benign,Clinvar,,,classified by multiple submitters
+SMAD4,302G>A,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1244_1247delACAG,Pathogenic,Clinvar,,,classified by multiple submitters
+SMAD4,1054G>A,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1157G>A,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1081C>T,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1081C>T,Pathogenic,Clinvar,,,classified by multiple submitters
+SMAD4,1543A>T,other,Clinvar,,,classified by single submitter
+SMAD4,1477G>C,other,Clinvar,,,classified by single submitter
+SMAD4,1236C>G,other,Clinvar,,,classified by single submitter
+SMAD4,1072G>T,other,Clinvar,,,classified by single submitter
+SMAD4,228A>G,Uncertain significance,Clinvar,,,classified by single submitter
+SMAD4,1392C>T,Uncertain significance,Clinvar,,,classified by single submitter
+SMAD4,1086T>C,Likely benign,Clinvar,,,classified by single submitter
+SMAD4,790A>G,Uncertain significance,Clinvar,,,classified by single submitter
+SMAD4,424+5G>A,Uncertain significance,Clinvar,,,classified by single submitter
+SMAD4,1351_1375del25,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,1228-1229delCA,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,905-52A>G,Benign,Clinvar,,,classified by single submitter
+SMAD4,788-?_1659+?del,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,668-?_1659+?del,Pathogenic,Clinvar,,,classified by single submitter
+SMAD4,905-32T=,Benign,Clinvar,,,classified by single submitter
+SMAD4,189_197delAAATGGAGCins44,Pathogenic,Clinvar,,,classified by single submitter
+MUTYH,934-2A>G,not provided,Clinvar,,,not classified by submitter
+MUTYH,536A>G,not provided,Clinvar,,,not classified by submitter
+MUTYH,74G>A,not provided,Clinvar,,,not classified by submitter
+MUTYH,53C>T,not provided,Clinvar,,,not classified by submitter
+MUTYH,1601G>A,not provided,Clinvar,,,not classified by submitter
+MUTYH,1585C>A,not provided,Clinvar,,,not classified by submitter
+MUTYH,1547C>T,not provided,Clinvar,,,not classified by submitter
+MUTYH,1544C>T,not provided,Clinvar,,,not classified by submitter
+MUTYH,1508G>A,not provided,Clinvar,,,not classified by submitter
+MUTYH,1437_1439delGGA,not provided,Clinvar,,,not classified by submitter
+MUTYH,1187G>A,not provided,Clinvar,,,not classified by submitter
+MUTYH,1309C>T,not provided,Clinvar,,,not classified by submitter
+MUTYH,1141G>T,not provided,Clinvar,,,not classified by submitter
+MUTYH,1037C>T,not provided,Clinvar,,,not classified by submitter
+MUTYH,1000C>A,not provided,Clinvar,,,not classified by submitter
+MUTYH,1147delC,not provided,Clinvar,,,not classified by submitter
+MUTYH,985G>A,not provided,Clinvar,,,not classified by submitter
+MUTYH,862A>G,not provided,Clinvar,,,not classified by submitter
+MUTYH,836A>C,not provided,Clinvar,,,not classified by submitter
+MUTYH,64G>A,Benign,Clinvar,,,classified by single submitter
+MUTYH,64G>A,Benign,Clinvar,,,classified by single submitter
+MUTYH,1014G>C,Benign,Clinvar,,,classified by single submitter
+MUTYH,551G>A,not provided,Clinvar,,,not classified by submitter
+MUTYH,1096C>T,not provided,Clinvar,,,not classified by submitter
+MUTYH,1014G>C,Benign,Clinvar,,,classified by single submitter
+MUTYH,70A>G,Uncertain significance,Clinvar,,,classified by single submitter
+MUTYH,64G>A,Benign,Clinvar,,,classified by single submitter
+MUTYH,1118C>T,Uncertain significance,Clinvar,,,classified by single submitter
+MUTYH,1241A>G,other,Clinvar,,,classified by single submitter
+MUTYH,1213C>T,other,Clinvar,,,classified by single submitter
+MUTYH,1438G>T,Pathogenic,Clinvar,,,classified by multiple submitters
+MUTYH,312C>T,Uncertain significance,Clinvar,,,classified by single submitter
+MUTYH,1601G>A,Benign,Clinvar,,,classified by single submitter
+MUTYH,1544C>T,Benign,Clinvar,,,classified by single submitter
+MUTYH,998-9C>T,Uncertain significance,Clinvar,,,classified by single submitter
+MUTYH,1276C>T,Uncertain significance,Clinvar,,,classified by single submitter
+MUTYH,536A>G,Pathogenic,Clinvar,,,classified by single submitter
+MUTYH,1585C>A,Uncertain significance,Clinvar,,,classified by single submitter
+MUTYH,1276C>T,Uncertain significance,Clinvar,,,classified by single submitter
+MUTYH,1258C>A,Uncertain significance,Clinvar,,,classified by single submitter
+MUTYH,1013_1014delAGinsGC,Likely benign,Clinvar,,,classified by single submitter
+MUTYH,1187G>A,Pathogenic,Clinvar,,,classified by single submitter
+MUTYH,536A>G,Pathogenic,Clinvar,,,classified by single submitter
+MUTYH,1187G>A,Pathogenic,Clinvar,,,classified by single submitter
+MUTYH,934-2A>G,Likely pathogenic,Clinvar,,,classified by single submitter
+MUTYH,925C>T,Uncertain significance,Clinvar,,,classified by single submitter
+MUTYH,821G>A,Uncertain significance,Clinvar,,,classified by single submitter
+MUTYH,74G>A,Uncertain significance,Clinvar,,,classified by single submitter
+MUTYH,53C>T,Uncertain significance,Clinvar,,,classified by single submitter
+MUTYH,1601G>A,Benign,Clinvar,,,classified by single submitter
+MUTYH,1585C>A,Benign,Clinvar,,,classified by single submitter
+MUTYH,1544C>T,Benign,Clinvar,,,classified by single submitter
+MUTYH,1420C>T,Uncertain significance,Clinvar,,,classified by single submitter
+MUTYH,1276C>T,Uncertain significance,Clinvar,,,classified by single submitter
+MUTYH,1258C>A,Uncertain significance,Clinvar,,,classified by single submitter
+MUTYH,312C>A,Pathogenic,Clinvar,,,classified by single submitter
+MUTYH,1187G>A,Pathogenic,Clinvar,,,classified by single submitter
+MUTYH,1187G>A,Pathogenic,Clinvar,,,classified by multiple submitters
+MUTYH,536A>G,Pathogenic,Clinvar,,,classified by single submitter
+MUTYH,536A>G,Pathogenic,Clinvar,,,classified by multiple submitters
+MUTYH,667A>G,Uncertain significance,Clinvar,,,classified by single submitter
+MUTYH,572G>A,Uncertain significance,Clinvar,,,classified by single submitter
+MUTYH,55C>T,Pathogenic,Clinvar,,,classified by single submitter
+MUTYH,497C>T,Uncertain significance,Clinvar,,,classified by single submitter
+MUTYH,1640delC,Uncertain significance,Clinvar,,,classified by single submitter
+MUTYH,1600C>T,Uncertain significance,Clinvar,,,classified by single submitter
+MUTYH,1556G>A,Uncertain significance,Clinvar,,,classified by single submitter
+MUTYH,1493A>G,Uncertain significance,Clinvar,,,classified by single submitter
+MUTYH,1476+6delGGCACTA,Pathogenic,Clinvar,,,classified by single submitter
+MUTYH,1437_1439delGGA,Pathogenic,Clinvar,,,classified by single submitter
+MUTYH,1301C>T,Uncertain significance,Clinvar,,,classified by single submitter
+MUTYH,1012C>T,Pathogenic,Clinvar,,,classified by single submitter
+MUTYH,56G>A,Uncertain significance,Clinvar,,,classified by single submitter
+MUTYH,1570A>T,Likely benign,Clinvar,,,classified by single submitter
+MUTYH,1289C>T,Uncertain significance,Clinvar,,,classified by single submitter
+MUTYH,1227_1228dupGG,Pathogenic,Clinvar,,,classified by single submitter
+MUTYH,1418C>A,Pathogenic,Clinvar,,,classified by single submitter
+MUTYH,733C>T,Likely pathogenic,Clinvar,,,classified by single submitter
+MUTYH,251A>G,Uncertain significance,Clinvar,,,classified by single submitter
+EPCAM,631G>A,not provided,Clinvar,,,not classified by submitter
+EPCAM,412C>T,Pathogenic,Clinvar,,,classified by single submitter
+EPCAM,197G>A,Pathogenic,Clinvar,,,classified by single submitter
+EPCAM,299A>G,Uncertain significance,Clinvar,,,classified by single submitter
+EPCAM,492-5T>C,Benign,Clinvar,,,classified by single submitter
+EPCAM,5C>T,Uncertain significance,Clinvar,,,classified by single submitter
+EPCAM,515C>T,Benign,Clinvar,,,classified by single submitter
+EPCAM,5C>T,Likely benign,Clinvar,,,classified by single submitter
+EPCAM,831A>G,Likely benign,Clinvar,,,classified by single submitter
+EPCAM,493G>A,Likely benign,Clinvar,,,classified by single submitter
+EPCAM,267G>C,Likely benign,Clinvar,,,classified by single submitter
+RET,1573C>T,not provided,Clinvar,,,not classified by submitter
+RET,1465G>A,not provided,Clinvar,,,not classified by submitter
+RET,1438G>A,not provided,Clinvar,,,not classified by submitter
+RET,1424G>A,not provided,Clinvar,,,not classified by submitter
+RET,1336G>C,not provided,Clinvar,,,not classified by submitter
+RET,1157C>T,not provided,Clinvar,,,not classified by submitter
+RET,874G>A,not provided,Clinvar,,,not classified by submitter
+RET,1049C>T,not provided,Clinvar,,,not classified by submitter
+RET,833C>A,not provided,Clinvar,,,not classified by submitter
+RET,488G>A,not provided,Clinvar,,,not classified by submitter
+RET,341G>A,not provided,Clinvar,,,not classified by submitter
+RET,304G>A,not provided,Clinvar,,,not classified by submitter
+RET,200G>A,not provided,Clinvar,,,not classified by submitter
+RET,166C>A,not provided,Clinvar,,,not classified by submitter
+RET,3116C>A,not provided,Clinvar,,,not classified by submitter
+RET,3185A>G,not provided,Clinvar,,,not classified by submitter
+RET,2875C>T,not provided,Clinvar,,,not classified by submitter
+RET,2432C>G,not provided,Clinvar,,,not classified by submitter
+RET,2348A>C,not provided,Clinvar,,,not classified by submitter
+RET,2261C>T,not provided,Clinvar,,,not classified by submitter
+RET,1946C>T,not provided,Clinvar,,,not classified by submitter
+RET,375C>A,Benign,Clinvar,,,classified by single submitter
+RET,2944C>T,Benign,Clinvar,,,classified by single submitter
+RET,1852T>C,Pathogenic,Clinvar,,,classified by single submitter
+RET,375C>A,Benign,Clinvar,,,classified by single submitter
+RET,337+9G>A,Benign,Clinvar,,,classified by single submitter
+RET,2944C>T,Benign,Clinvar,,,classified by single submitter
+RET,2753T>C,Pathogenic,Clinvar,,,classified by single submitter
+RET,2608-24G>A,Benign,Clinvar,,,classified by single submitter
+RET,1998G>T,Pathogenic,Clinvar,,,classified by single submitter
+RET,1900T>C,Pathogenic,Clinvar,,,classified by single submitter
+RET,1853G>C,Pathogenic,Clinvar,,,classified by single submitter
+RET,1826G>A,Pathogenic,Clinvar,,,classified by single submitter
+RET,1296A>G,Benign,Clinvar,,,classified by single submitter
+RET,351C>T,not provided,Clinvar,,,not classified by submitter
+RET,2712C>G,Benign,Clinvar,,,classified by multiple submitters
+RET,2071G>A,Benign,Clinvar,,,classified by multiple submitters
+RET,874G>A,Uncertain significance,Clinvar,,,classified by single submitter
+RET,833C>A,Uncertain significance,Clinvar,,,classified by single submitter
+RET,785T>C,Uncertain significance,Clinvar,,,classified by single submitter
+RET,509C>T,Uncertain significance,Clinvar,,,classified by single submitter
+RET,2982A>C,Uncertain significance,Clinvar,,,classified by single submitter
+RET,2944C>T,Benign,Clinvar,,,classified by single submitter
+RET,2611G>A,Uncertain significance,Clinvar,,,classified by multiple submitters
+RET,2543T>A,Uncertain significance,Clinvar,,,classified by single submitter
+RET,2372A>T,Benign,Clinvar,,,classified by single submitter
+RET,2288A>T,Uncertain significance,Clinvar,,,classified by single submitter
+RET,2071G>A,Benign,Clinvar,,,classified by single submitter
+RET,200G>A,Uncertain significance,Clinvar,,,classified by single submitter
+RET,1942G>A,Likely benign,Clinvar,,,classified by single submitter
+RET,166C>A,conflicting data from submitters,Clinvar,,,classified by multiple submitters
+RET,1852T>A,Pathogenic,Clinvar,,,classified by single submitter
+RET,2752A>G,Uncertain significance,Clinvar,,,classified by single submitter
+RET,2370G>T,Pathogenic,Clinvar,,,classified by single submitter
+RET,2304G>T,Pathogenic,Clinvar,,,classified by multiple submitters
+RET,2098A>T,Uncertain significance,Clinvar,,,classified by single submitter
+RET,1997A>T,Uncertain significance,Clinvar,,,classified by single submitter
+RET,1832_1833delGCinsTT,Pathogenic,Clinvar,,,classified by single submitter
+RET,1832_1833delGCinsCT,Pathogenic,Clinvar,,,classified by single submitter
+RET,1013C>T,Uncertain significance,Clinvar,,,classified by single submitter
+RET,2080C>T,Likely pathogenic,Clinvar,,,classified by single submitter
+RET,1880-2A>G,Likely pathogenic,Clinvar,,,classified by single submitter
+RET,166C>A,Uncertain significance,Clinvar,,,classified by single submitter
+RET,1264-55dupG,Uncertain significance,Clinvar,,,classified by single submitter
+RET,-234_-230dupGCCCC,Uncertain significance,Clinvar,,,classified by single submitter
+RET,2765C>A,Benign,Clinvar,,,classified by single submitter
+RET,2735G>C,Pathogenic,Clinvar,,,classified by single submitter
+RET,2735G>A,Uncertain significance,Clinvar,,,classified by single submitter
+RET,2720A>T,Uncertain significance,Clinvar,,,classified by single submitter
+RET,2719A>G,Uncertain significance,Clinvar,,,classified by single submitter
+RET,2712C>G,Benign,Clinvar,,,classified by single submitter
+RET,2711C>T,Pathogenic,Clinvar,,,classified by single submitter
+RET,2711C>G,Uncertain significance,Clinvar,,,classified by single submitter
+RET,2673G>A,Uncertain significance,Clinvar,,,classified by single submitter
+RET,2671T>G,Pathogenic,Clinvar,,,classified by single submitter
+RET,2656C>T,Uncertain significance,Clinvar,,,classified by single submitter
+RET,2647_2648delGCinsTT,Pathogenic,Clinvar,,,classified by single submitter
+RET,2647G>A,Pathogenic,Clinvar,,,classified by single submitter
+RET,2641C>G,Uncertain significance,Clinvar,,,classified by single submitter
+RET,2608-24G>A,Benign,Clinvar,,,classified by single submitter
+RET,2556C>G,Pathogenic,Clinvar,,,classified by single submitter
+RET,2543T>C,Uncertain significance,Clinvar,,,classified by single submitter
+RET,2535C>T,Uncertain significance,Clinvar,,,classified by single submitter
+RET,2531G>T,Uncertain significance,Clinvar,,,classified by multiple submitters
+RET,2531G>A,Uncertain significance,Clinvar,,,classified by single submitter
+RET,2530C>T,Uncertain significance,Clinvar,,,classified by single submitter
+RET,2529G>T,Uncertain significance,Clinvar,,,classified by single submitter
+RET,2523G>A,Uncertain significance,Clinvar,,,classified by single submitter
+RET,2522C>T,Uncertain significance,Clinvar,,,classified by single submitter
+RET,2508C>T,Benign,Clinvar,,,classified by single submitter
+RET,2497C>T,Uncertain significance,Clinvar,,,classified by single submitter
+RET,2456G>T,Uncertain significance,Clinvar,,,classified by single submitter
+RET,2452G>A,Uncertain significance,Clinvar,,,classified by single submitter
+RET,2417A>G,Benign,Clinvar,,,classified by single submitter
+RET,2413G>A,Uncertain significance,Clinvar,,,classified by single submitter
+RET,2410G>T,Pathogenic,Clinvar,,,classified by multiple submitters
+RET,2410G>C,Pathogenic,Clinvar,,,classified by single submitter
+RET,2410G>A,Pathogenic,Clinvar,,,classified by single submitter
+RET,2372A>T,Pathogenic,Clinvar,,,classified by multiple submitters
+RET,2371T>A,Uncertain significance,Clinvar,,,classified by single submitter
+RET,2370G>C,Pathogenic,Clinvar,,,classified by single submitter
+RET,2342A>G,Pathogenic,Clinvar,,,classified by single submitter
+RET,2332G>A,Uncertain significance,Clinvar,,,classified by multiple submitters
+RET,2330A>G,Uncertain significance,Clinvar,,,classified by single submitter
+RET,2309G>A,Uncertain significance,Clinvar,,,classified by single submitter
+RET,2304G>C,Pathogenic,Clinvar,,,classified by single submitter
+RET,2071G>A,Benign,Clinvar,,,classified by single submitter
+RET,1998delGinsTTCT,Pathogenic,Clinvar,,,classified by single submitter
+RET,1998G>T,Uncertain significance,Clinvar,,,classified by single submitter
+RET,1996A>G,Pathogenic,Clinvar,,,classified by single submitter
+RET,1995C>G,Uncertain significance,Clinvar,,,classified by single submitter
+RET,1947G>A,Uncertain significance,Clinvar,,,classified by single submitter
+RET,1946C>T,Uncertain significance,Clinvar,,,classified by multiple submitters
+RET,1942G>A,Uncertain significance,Clinvar,,,classified by multiple submitters
+RET,1921G>T,Uncertain significance,Clinvar,,,classified by single submitter
+RET,1919C>G,Uncertain significance,Clinvar,,,classified by single submitter
+RET,1900_1908dupTGCCGCACG,Pathogenic,Clinvar,,,classified by single submitter
+RET,1906delAinsGACCTGTGCCGCC,Pathogenic,Clinvar,,,classified by single submitter
+RET,1892_1903dupACGAGCTGTGCC,Pathogenic,Clinvar,,,classified by single submitter
+RET,1903C>G,Uncertain significance,Clinvar,,,classified by single submitter
+RET,1902C>G,Pathogenic,Clinvar,,,classified by single submitter
+RET,1901_1902delGCinsTG,Pathogenic,Clinvar,,,classified by single submitter
+RET,1901G>T,Pathogenic,Clinvar,,,classified by single submitter
+RET,1901G>C,Pathogenic,Clinvar,,,classified by single submitter
+RET,1901G>A,Pathogenic,Clinvar,,,classified by multiple submitters
+RET,1900T>G,Pathogenic,Clinvar,,,classified by single submitter
+RET,1900T>C,Pathogenic,Clinvar,,,classified by single submitter
+RET,1900T>A,Pathogenic,Clinvar,,,classified by single submitter
+RET,1896_1900delGCTGTinsCGTGC,Pathogenic,Clinvar,,,classified by single submitter
+RET,1894G>A,Uncertain significance,Clinvar,,,classified by single submitter
+RET,1893C>T,Uncertain significance,Clinvar,,,classified by multiple submitters
+RET,1893C>A,Uncertain significance,Clinvar,,,classified by single submitter
+RET,1892A>T,Uncertain significance,Clinvar,,,classified by multiple submitters
+RET,1892A>G,Uncertain significance,Clinvar,,,classified by single submitter
+RET,1892A>C,Uncertain significance,Clinvar,,,classified by single submitter
+RET,1891G>T,Pathogenic,Clinvar,,,classified by multiple submitters
+RET,1891G>A,Uncertain significance,Clinvar,,,classified by single submitter
+RET,1891_1893delGAC,Pathogenic,Clinvar,,,classified by single submitter
+RET,1889G>T,Pathogenic,Clinvar,,,classified by single submitter
+RET,1889G>C,Uncertain significance,Clinvar,,,classified by single submitter
+RET,1889G>A,Pathogenic,Clinvar,,,classified by single submitter
+RET,1888T>C,Pathogenic,Clinvar,,,classified by single submitter
+RET,1879+4A>G,Uncertain significance,Clinvar,,,classified by single submitter
+RET,1867G>A,Benign,Clinvar,,,classified by single submitter
+RET,1859G>T,Pathogenic,Clinvar,,,classified by multiple submitters
+RET,1859G>C,Pathogenic,Clinvar,,,classified by single submitter
+RET,1859G>A,Pathogenic,Clinvar,,,classified by single submitter
+RET,1858T>G,Pathogenic,Clinvar,,,classified by single submitter
+RET,1858T>C,Pathogenic,Clinvar,,,classified by single submitter
+RET,1858T>A,Pathogenic,Clinvar,,,classified by single submitter
+RET,1857C>T,Uncertain significance,Clinvar,,,classified by single submitter
+RET,1854C>G,Pathogenic,Clinvar,,,classified by single submitter
+RET,1853G>T,Pathogenic,Clinvar,,,classified by single submitter
+RET,1853G>A,Pathogenic,Clinvar,,,classified by single submitter
+RET,1852T>G,Pathogenic,Clinvar,,,classified by single submitter
+RET,1852T>C,Pathogenic,Clinvar,,,classified by single submitter
+RET,1853G>C,Pathogenic,Clinvar,,,classified by single submitter
+RET,1846_1848delGAG,Benign,Clinvar,,,classified by single submitter
+RET,1860C>G,Pathogenic,Clinvar,,,classified by single submitter
+RET,1833C>G,Pathogenic,Clinvar,,,classified by single submitter
+RET,1832G>T,Pathogenic,Clinvar,,,classified by single submitter
+RET,1832G>C,Uncertain significance,Clinvar,,,classified by single submitter
+RET,1832_1833delGCinsAT,Pathogenic,Clinvar,,,classified by single submitter
+RET,1832G>A,Pathogenic,Clinvar,,,classified by single submitter
+RET,1831T>G,Pathogenic,Clinvar,,,classified by single submitter
+RET,1831T>C,Pathogenic,Clinvar,,,classified by single submitter
+RET,1827C>G,Likely pathogenic,Clinvar,,,classified by single submitter
+RET,1826G>T,Pathogenic,Clinvar,,,classified by single submitter
+RET,1826G>C,Pathogenic,Clinvar,,,classified by single submitter
+RET,1826G>A,Pathogenic,Clinvar,,,classified by single submitter
+RET,1825T>G,Pathogenic,Clinvar,,,classified by single submitter
+RET,1825T>C,Pathogenic,Clinvar,,,classified by single submitter
+RET,1825T>A,Uncertain significance,Clinvar,,,classified by single submitter
+RET,1817A>G,Uncertain significance,Clinvar,,,classified by single submitter
+RET,1807A>C,Uncertain significance,Clinvar,,,classified by single submitter
+RET,1799G>A,Uncertain significance,Clinvar,,,classified by single submitter
+RET,1760-12G>A,Uncertain significance,Clinvar,,,classified by single submitter
+RET,1597G>T,Pathogenic,Clinvar,,,classified by single submitter
+RET,1831T>A,Pathogenic,Clinvar,,,classified by single submitter
+RET,1597G>A,Uncertain significance,Clinvar,,,classified by single submitter
+RET,1585_1593dupGAGGAGTGT,Pathogenic,Clinvar,,,classified by single submitter
+RET,1591T>C,Uncertain significance,Clinvar,,,classified by single submitter
+RET,1544_1545delGCinsCT,Pathogenic,Clinvar,,,classified by single submitter
+RET,1531G>A,Uncertain significance,Clinvar,,,classified by single submitter
+RET,1529C>T,Uncertain significance,Clinvar,,,classified by single submitter
+RET,961G>A,Uncertain significance,Clinvar,,,classified by single submitter
+RET,874G>A,Pathogenic,Clinvar,,,classified by multiple submitters
+RET,592C>A,Uncertain significance,Clinvar,,,classified by single submitter
+RET,2332G>A,Uncertain significance,Clinvar,,,classified by single submitter
+RET,2735G>C,Pathogenic,Clinvar,,,classified by single submitter
+RET,73+9277T>C,risk factor,Clinvar,,,classified by single submitter
+RET,2671T>G,Pathogenic,Clinvar,,,classified by single submitter
+RET,2671T>G,Pathogenic,Clinvar,,,classified by single submitter
+RET,1597G>T,Pathogenic,Clinvar,,,classified by single submitter
+RET,1942G>A,Pathogenic,Clinvar,,,classified by single submitter
+RET,3116C>T,Pathogenic,Clinvar,,,classified by single submitter
+RET,341G>A,Pathogenic,Clinvar,,,classified by single submitter
+RET,2410G>T,Pathogenic,Clinvar,,,classified by single submitter
+RET,1825T>C,Pathogenic,Clinvar,,,classified by single submitter
+RET,1859G>C,Pathogenic,Clinvar,,,classified by single submitter
+RET,1919C>G,Pathogenic,Clinvar,,,classified by single submitter
+RET,135G>A,risk factor,Clinvar,,,classified by single submitter
+RET,1941C>T,risk factor,Clinvar,,,classified by single submitter
+RET,2944C>T,risk factor,Clinvar,,,classified by single submitter
+RET,692G>A,risk factor,Clinvar,,,classified by single submitter
+RET,2372A>T,Pathogenic,Clinvar,,,classified by single submitter
+RET,2372A>T,Pathogenic,Clinvar,,,classified by single submitter
+RET,2370G>C,Pathogenic,Clinvar,,,classified by single submitter
+RET,2370G>C,Pathogenic,Clinvar,,,classified by single submitter
+RET,1860C>G,Pathogenic,Clinvar,,,classified by single submitter
+RET,1826G>A,Pathogenic,Clinvar,,,classified by single submitter
+RET,938G>A,risk factor,Clinvar,,,classified by single submitter
+RET,2304G>C,Pathogenic,Clinvar,,,classified by single submitter
+RET,1852T>C,Pathogenic,Clinvar,,,classified by single submitter
+RET,1859G>T,Pathogenic,Clinvar,,,classified by single submitter
+RET,1179C>A,risk factor,Clinvar,,,classified by single submitter
+RET,989G>A,risk factor,Clinvar,,,classified by single submitter
+RET,538C>T,risk factor,Clinvar,,,classified by single submitter
+RET,191C>T,risk factor,Clinvar,,,classified by single submitter
+RET,95C>T,risk factor,Clinvar,,,classified by single submitter
+RET,2914A>G,risk factor,Clinvar,,,classified by single submitter
+RET,2690G>A,risk factor,Clinvar,,,classified by single submitter
+RET,2753T>C,other,Clinvar,,,classified by single submitter
+RET,2753T>C,Pathogenic,Clinvar,,,classified by single submitter
+RET,2753T>C,Pathogenic,Clinvar,,,classified by multiple submitters
+RET,1902C>G,Pathogenic,Clinvar,,,classified by single submitter
+RET,1902C>G,Pathogenic,Clinvar,,,classified by single submitter
+RET,1900T>C,Pathogenic,Clinvar,,,classified by single submitter
+RET,1900T>C,Pathogenic,Clinvar,,,classified by single submitter
+RET,1859G>A,Pathogenic,Clinvar,,,classified by single submitter
+RET,1858T>C,Pathogenic,Clinvar,,,classified by single submitter
+RET,1853G>C,Pathogenic,Clinvar,,,classified by single submitter
+RET,1853G>C,Pathogenic,Clinvar,,,classified by single submitter
+RET,1833C>G,Pathogenic,Clinvar,,,classified by single submitter
+RET,406G>T,risk factor,Clinvar,,,classified by single submitter
+RET,1901G>T,Pathogenic,Clinvar,,,classified by single submitter
+RET,1901G>T,Pathogenic,Clinvar,,,classified by single submitter
+RET,1901G>T,Pathogenic,Clinvar,,,classified by single submitter
+RET,1901G>C,Pathogenic,Clinvar,,,classified by single submitter
+RET,1901G>C,Pathogenic,Clinvar,,,classified by single submitter
+RET,1901G>A,Pathogenic,Clinvar,,,classified by single submitter
+RET,1901G>A,Pathogenic,Clinvar,,,classified by multiple submitters
+RET,1900T>G,Pathogenic,Clinvar,,,classified by single submitter
+RET,1900T>G,Pathogenic,Clinvar,,,classified by single submitter
+RET,2293T>C,risk factor,Clinvar,,,classified by single submitter
+RET,1852T>G,Pathogenic,Clinvar,,,classified by multiple submitters
+RET,1702G>A,Uncertain significance,Clinvar,,,classified by single submitter
+RET,3057G>A,Uncertain significance,Clinvar,,,classified by single submitter
+RET,2976G>A,Uncertain significance,Clinvar,,,classified by single submitter
+RET,1264-5C>T,Benign,Clinvar,,,classified by single submitter
+RET,867+4delC,Uncertain significance,Clinvar,,,classified by single submitter
+RET,2307T>G,Benign,Clinvar,,,classified by single submitter

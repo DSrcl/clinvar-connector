@@ -1,0 +1,32 @@
+{% raw %}
+<html ng-app="ClinvarConnector">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Clinvar Connector</title>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.18/angular.min.js"></script>
+        <script src="/static/variants.js"></script>
+        <script src="/static/main.js"></script>
+        <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+        <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+    </head>
+    <body ng-controller="DownloadController">
+        <div class="container">
+            <h3>Downloading reports from Clinvar, please wait patiently... (P.S. don't shut me down)</h3>
+            <div class="progress progress-striped active" ng-show="!canDownload">
+                <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: {{progress}}">
+                </div>
+            </div>
+            <div class="progress" ng-show="canDownload">
+                <a href="/download/{{targetId}}">
+                    <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 100%">
+                    Click me to download!
+                    </div>
+                </a>
+            </div>
+        </div>
+    </body>
+</html>
+{% endraw %}
