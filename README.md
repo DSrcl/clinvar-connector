@@ -1,4 +1,4 @@
-A micro web app for easier interfacing with Clinvar <a href="http://192.241.244.189:7070" target="_blank">here</a>.
+A micro web app for easier interfacing with Clinvar. A live server is deployed <a href="http://192.241.244.189:7070" target="_blank">here</a>.
 ## Running the server
 
 ### Prerequisites
