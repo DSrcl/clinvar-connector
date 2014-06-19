@@ -14,9 +14,10 @@
     </head>
     <body ng-controller="DownloadController">
         <div class="container">
-            <h3>Downloading reports from Clinvar, please wait patiently... (P.S. don't shut me down)</h3>
+            <h3>Fetching reports from Clinvar, please wait patiently...</h3>
             <div class="progress progress-striped active" ng-show="!canDownload">
                 <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: {{progress}}">
+                {{progress}}
                 </div>
             </div>
             <div class="progress" ng-show="canDownload">
@@ -28,5 +29,50 @@
             </div>
         </div>
     </body>
+    <div ng-repeat="report in reports">
+        <div class="modal fade" id="detail-{{report.reportId}}" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                    <h3>{{report.title}}</h3>
+                    </div>
+                    <div class="modal-body">
+                        <div class="row">
+                            <div class="col-sm-1"></div>
+                            <div class="col-sm-10">
+                                <div class="row">
+                                    <div class="col-xs-5 attribute">Evaluated:</div>
+                                    <div class="col-xs-7 value">{{report.evaluated}}</div>
+                                    <hr></hr>
+                                </div>
+                                <div class="row">
+                                    <div class="col-xs-5 attribute">Review status:</div>
+                                    <div class="col-xs-7 value">{{report.reviewStatus}}</div>
+                                    <hr></hr>
+                                </div>
+                                <div class="row">
+                                    <div class="col-xs-5 attribute">Clinical significance:</div>
+                                    <div class="col-xs-7 value">{{report.clinicalSignificance}}</div>
+                                    <hr></hr>
+                                </div>
+                                <div class="row">
+                                    <div class="col-xs-5 attribute">Gene:</div>
+                                    <div class="col-xs-7 value">{{report.gene}}</div>
+                                    <hr></hr>
+                                </div>
+                                <div class="row">
+                                    <div class="col-xs-5 attribute">Variation:</div>
+                                    <div class="col-xs-7 value">{{report.variation}}</div>
+                                    <hr></hr>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </html>
 {% endraw %}
