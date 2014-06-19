@@ -10,7 +10,8 @@ var Clinvar = function($scope) {
             type: 'GET',
             url: url,
             dataType: 'xml',
-            success: callback
+            success: callback,
+            error: $.getXML(url, callback) //retry!!!!
         });
     };
 
