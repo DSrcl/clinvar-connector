@@ -1,7 +1,7 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
-
+downloads/~
 # C extensions
 *.so
 settings.py
