@@ -1,4 +1,5 @@
-from flask import Flask, render_template, json, request, jsonify, Response
+from flask import Flask, render_template, request, jsonify, Response
+import simplejson as json
 import os
 import glob
 import csv
