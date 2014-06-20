@@ -3,6 +3,7 @@ import simplejson as json
 import os
 import glob
 import csv
+from urllib import quote_plus
 from xlsxwriter.workbook import Workbook
 
 app = Flask(__name__)
@@ -97,7 +98,7 @@ def submit_reports():
 @app.route('/')
 def index():
     if request.args.get('term'):
-        searchCommand = 'search("%s")' % request.args['term']
+        searchCommand = 'search("%s")' % quote_plus(request.args['term'])
     else:
         searchCommand = ''
     return render_template('index.html', searchCmd=searchCommand, term=request.args.get('term'))

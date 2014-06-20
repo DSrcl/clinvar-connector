@@ -2,7 +2,7 @@ var Clinvar = function($scope) {
     var genes = ['BRCA1', 'BRCA2', 'APC', 'MLH1', 'MLH2', 'MSH2', 'P16', 'p53', 'PTEN', 'ATM', 'CHEK2', 'ACTC', 'CDH23', 'DSC2', 'DSG2', 'DSP', 'GLA', 'HRAS', 'LAMP2', 'LDB3', 'LMNA', 'MYBPC3', 'MYH7', 'MYL2', 'MYL3', 'MYO7A', 'PKP2', 'PLN', 'PRKAG2', 'PTPN11', 'TAZ', 'TNNI3', 'TNNT2', 'TPM1', 'TTR', 'USH2A', 'FBN1', 'TGFBR2', 'TGFBR1', 'PMS2', 'MSH6', 'BRAF', 'KRAS', 'MEK1', 'MEK2', 'RAF1', 'SOS1', 'SHOC2', 'NRAS', 'TMEM43', 'ACTA2', 'ABCC9', 'DES', 'SGCD', 'VCL', 'HOPX', 'ACTN2', 'CSRP3', 'TCAP', 'CTF1', 'EMD', 'BARD1', 'BMPR1A', 'BRIP1', 'CDH1', 'EPCAM', 'MRE11A', 'MUTYH', 'NBN', 'PALB2', 'RAD50', 'RAD51C', 'SMAD4', 'STK11', 'TP53', 'MYH', 'MEN1', 'RET', 'VHL', 'HLRCC', 'CDK4', 'CDKN2A', 'RAD51D', 'MAX', 'NF1', 'SDHA', 'SDHAF2', 'SDHB', 'SDHC', 'SDHD', 'TMEM127', 'FH', 'FLCN', 'MET', 'MITF', 'TSC1', 'TSC2'],
         totalReports = 0,
         processedReports = 0,
-        retMax = 200,
+        retMax = 500,
         targetId = Math.random().toString(36).substring(7);
         
     $.getXML = function(url, callback) {
@@ -22,8 +22,13 @@ var Clinvar = function($scope) {
         processedReports += submitRes.count;
         $scope.$apply(function() {
             $scope.progress = (processedReports/totalReports*100).toFixed(2) + '%';
-            if (processedReports === totalReports)
-                $scope.canDownload = true;
+            if (processedReports === totalReports || processedReports/totalReports > 0.99)
+                if (processedReports === totalReports)
+                    $scope.canDownload = true;
+                else  // in case of getting stuck, wait for 10 secs then proceed to download
+                    setTimeout(function() {
+                        $scope.canDownload = true;
+                    }, 10000);
         });
     };
 
