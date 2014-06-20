@@ -11,7 +11,9 @@ var Clinvar = function($scope) {
             url: url,
             dataType: 'xml',
             success: callback,
-            error: $.getXML(url, callback) //retry!!!!
+            error: function() {
+                setTimeout($.getXML(url, callback), 3000); //retry!!!!
+            }
         });
     };
 
